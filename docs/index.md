@@ -1,4 +1,9 @@
-# Sostenibilidad aplicada al sistema productivo
+---
+hide:
+  - navigation
+---
+
+![Sostenibilidad aplicada al sistema productivo](assets/img/logo_portada.png)
 
 **Módulo 1708** · Ciclo Administración de Sistemas Informáticos en Red — apuntes integrados con el módulo de Administración de Sistemas Operativos (ASO).
 
