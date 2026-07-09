@@ -1,0 +1,14 @@
+site/
+.cache/
+__pycache__/
+
+# Material de terceros / copyright, no publicar
+*.mbz
+2526_1708_Sostenibilidad_PD.pdf
+Diapositivas_Sostenibilidad - Tema 1.pdf
+
+# Backup interno del prototipo Jekyll (descartado)
+docs_jekyll_backup/
+
+# Guías docentes: solo para uso del profesorado, no se publican
+*_Guia_Docente.md

@@ -1,0 +1,61 @@
+site_name: Sostenibilidad aplicada al sistema productivo
+site_url: https://angelabserrano.github.io/sostenibilidad/
+site_description: Apuntes del módulo 1708, integrados con ASO
+site_author: Angela B. Serrano
+
+theme:
+  name: material
+  language: es
+  palette:
+    - scheme: default
+      primary: teal
+      accent: cyan
+      toggle:
+        icon: material/weather-night
+        name: Modo oscuro
+    - scheme: slate
+      primary: teal
+      accent: cyan
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
+  features:
+    - navigation.top
+    - navigation.footer
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+    - toc.follow
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: true
+  - tables
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+  - search:
+      lang: es
+
+nav:
+  - Inicio: index.md
+  - UD1. Sostenibilidad, ASG y marcos internacionales: ud1.md
+  - UD2. Retos ambientales y sociales: ud2.md
+  - UD3. Los ODS en el desempeño profesional: ud3.md
+  - UD4. Economía circular: ud4.md
+  - UD5. Actividades sostenibles (FCT): ud5.md
+  - UD6. El plan de sostenibilidad: ud6.md
