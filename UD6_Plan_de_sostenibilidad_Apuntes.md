@@ -1,7 +1,5 @@
 # UD6 — El plan de sostenibilidad
 
-**Módulo:** 1708 Sostenibilidad aplicada al sistema productivo
-
 ![Reunión de trabajo en torno a una mesa](imagenes/ud6_reunion.jpg)
 *Foto: Luis Argerich, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), vía [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Meeting_room,_table_and_paper_board.jpg)*
 
@@ -78,6 +76,7 @@ Un plan de sostenibilidad sin indicadores es una declaración de intenciones, no
 ### 4.1 Criterio SMART
 
 Un buen indicador de sostenibilidad debería cumplir el criterio **SMART**:
+
 - **S**pecífico — define con precisión qué se mide.
 - **M**edible — puede cuantificarse con datos verificables.
 - **A**lcanzable — el objetivo asociado es realista.

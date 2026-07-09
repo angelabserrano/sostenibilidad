@@ -1,7 +1,5 @@
 # UD2 — Retos ambientales y sociales
 
-**Módulo:** 1708 Sostenibilidad aplicada al sistema productivo
-
 ---
 
 ## 1. Los grandes retos ambientales globales
@@ -37,6 +35,7 @@ La desigualdad se mide habitualmente con el **índice de Gini** (0 = igualdad pe
 ### 2.2 Brecha digital
 
 La **brecha digital** es la desigualdad en el acceso y uso de las tecnologías de la información. Tiene varias capas:
+
 - **Brecha de acceso** — quién tiene o no conexión y dispositivos.
 - **Brecha de uso** — quién sabe aprovechar la tecnología de forma efectiva (alfabetización digital).
 - **Brecha de calidad** — diferencias en la velocidad, fiabilidad y seguridad del acceso.

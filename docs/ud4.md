@@ -1,7 +1,5 @@
 # UD4 — Economía circular
 
-**Módulo:** 1708 Sostenibilidad aplicada al sistema productivo
-
 ---
 
 ## 1. De la economía lineal a la economía circular

@@ -1,13 +1,22 @@
 # UD1 — Sostenibilidad, ASG y marcos internacionales
 
-**Módulo:** 1708 Sostenibilidad aplicada al sistema productivo
-
 ![Parque eólico marino](imagenes/10_renovables.jpg)
 *Foto: Andy Dingley (edición: Muhammad Mahdi Karim), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), vía [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Barrow_Offshore_wind_turbines_NR.jpg)*
 
 ---
 
 ## 1. Origen y evolución del concepto de sostenibilidad
+
+**¿Qué es la sostenibilidad?**
+
+La sostenibilidad es la capacidad de un sistema — económico, social o ambiental — de mantenerse en el tiempo sin agotar los recursos ni degradar las condiciones de las que depende para seguir existiendo. Aplicada a una organización, significa generar valor de forma que eso no comprometa su propia capacidad de seguir generándolo en el futuro, ni la de las personas, comunidades o ecosistemas de los que depende.
+
+En términos más concretos, la sostenibilidad busca:
+
+- Aumentar el bienestar de las personas en el presente.
+- Sin comprometer el bienestar de las generaciones futuras.
+- Una mejora continua de la calidad de vida colectiva, no un estado fijo ya alcanzado.
+- El equilibrio entre crecimiento económico, respeto ambiental y bienestar social — la misma idea que retomaremos como Triple Bottom Line en el punto 2.
 
 El concepto de sostenibilidad no nace de golpe en un único documento: es el resultado de varias décadas de debate internacional sobre los límites del crecimiento económico.
 
@@ -141,6 +150,7 @@ Es el instrumento principal que usa la ONU para **planificar y ejecutar el desar
 Estrategia de la Comisión Europea presentada en diciembre de 2019. Objetivo central: convertir a la UE en la primera economía climáticamente neutra del mundo en **2050**, con un objetivo intermedio de reducción de emisiones del **55% para 2030** respecto a niveles de 1990 (paquete legislativo *Fit for 55*).
 
 Elementos del Pacto Verde con impacto directo en el sector digital:
+
 - **Estrategia de "doble transición" (twin transition):** la transición ecológica y la transición digital se plantean como inseparables — la digitalización debe ser palanca de sostenibilidad, no un nuevo problema ambiental.
 - **Taxonomía verde europea (Reglamento UE 2020/852):** sistema de clasificación que determina qué actividades económicas se consideran "ambientalmente sostenibles", usado por inversores y también aplicable a centros de datos y servicios digitales.
 - **Mecanismo de Transición Justa:** fondos para que sectores y regiones afectados por la transición no queden atrás.
@@ -243,6 +253,7 @@ El sector TIC tiene un impacto ambiental propio y creciente, a menudo invisible 
 - **E-waste (residuos electrónicos):** según el *Global E-waste Monitor* (Naciones Unidas), es uno de los flujos de residuos de crecimiento más rápido del mundo, con una tasa de reciclaje formal muy inferior al volumen generado. La normativa europea que regula su gestión es la **Directiva WEEE** (Waste Electrical and Electronic Equipment, 2012/19/UE).
 
 **Green IT / Green Computing** — conjunto de prácticas para reducir este impacto:
+
 - Virtualización y consolidación de servidores (menos hardware físico para la misma capacidad de cómputo).
 - Hardware de mayor eficiencia energética y mayor vida útil.
 - Optimización del software y los procesos (menos ciclos de CPU desperdiciados).

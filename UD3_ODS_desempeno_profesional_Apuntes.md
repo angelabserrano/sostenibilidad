@@ -1,7 +1,5 @@
 # UD3 — Los ODS en el desempeño profesional
 
-**Módulo:** 1708 Sostenibilidad aplicada al sistema productivo
-
 ---
 
 ## 1. De los ODS al desempeño profesional individual
@@ -26,6 +24,7 @@ En UD1 vimos los ODS como marco internacional (Agenda 2030). En esta unidad baja
 El **Green Software** (o *Software sostenible*) es la disciplina que estudia cómo diseñar y operar software para minimizar su huella de carbono. La **Green Software Foundation** (fundación sin ánimo de lucro con participación de Microsoft, GitHub, Accenture, entre otros) ha popularizado el indicador **SCI (Software Carbon Intensity)**, que mide las emisiones de carbono asociadas a ejecutar una unidad de software.
 
 Principios básicos del Green Software aplicables al perfil de administración de sistemas:
+
 - **Eficiencia energética:** usar la menor cantidad de energía posible para completar una tarea (código optimizado, procesos bien programados).
 - **Eficiencia de hardware:** maximizar el uso del hardware disponible antes de aprovisionar más (evitar servidores infrautilizados).
 - **Consciencia de la huella de carbono:** ejecutar cargas de trabajo, cuando sea posible, en momentos o regiones donde la electricidad de la red proviene en mayor proporción de fuentes renovables (*carbon-aware computing*).
@@ -82,6 +81,7 @@ Para un profesional de administración de sistemas, no hace falta cambiar de per
 *Foto: Shixart1985, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), vía [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Attractuve_middle-aged_woman_working_on_laptop_at_home.jpg)*
 
 La **huella de carbono personal** se calcula habitualmente en tres grandes categorías:
+
 - **Movilidad** — desplazamientos al trabajo, viajes.
 - **Energía** — consumo doméstico de electricidad, calefacción/refrigeración.
 - **Consumo** — bienes y servicios adquiridos, incluido el consumo digital (streaming, almacenamiento en la nube, dispositivos).
