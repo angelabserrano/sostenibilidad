@@ -8,5 +8,5 @@ Estas unidades didácticas acompañan, semana a semana, a los contenidos técnic
 - [UD2. Retos ambientales y sociales](ud2.md)
 - [UD3. Los ODS en el desempeño profesional](ud3.md)
 - [UD4. Economía circular](ud4.md)
-- [UD5. Actividades sostenibles (FCT)](ud5.md)
+- [UD5. Actividades sostenibles (Formación en empresa)](ud5.md)
 - [UD6. El plan de sostenibilidad](ud6.md)
