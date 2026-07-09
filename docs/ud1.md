@@ -2,8 +2,8 @@
 
 **Módulo:** 1708 Sostenibilidad aplicada al sistema productivo
 
-![Biogás, energía solar y eólica en una explotación agrícola](assets/img/10_renovables.jpg)
-*Foto: Florian Gerlach (Nawaro), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), vía [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Biogas_Photovoltaik_Wind.jpg)*
+![Parque eólico marino](assets/img/10_renovables.jpg)
+*Foto: Andy Dingley (edición: Muhammad Mahdi Karim), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), vía [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Barrow_Offshore_wind_turbines_NR.jpg)*
 
 ---
 
