@@ -99,25 +99,7 @@ Esta clasificación se retomará en UD6, donde se aplicará a un caso concreto (
 
 Aprobada por la Asamblea General de la ONU en septiembre de 2015. Sustituye a los ODM y amplía su alcance: **17 objetivos y 169 metas**, económicas, sociales y ambientales, integradas e indivisibles, aplicables a todos los países (no solo en desarrollo), con horizonte 2030. Su principio rector es *"no dejar a nadie atrás"*.
 
-| ODS | Objetivo |
-|---|---|
-| 1 | Fin de la pobreza |
-| 2 | Hambre cero |
-| 3 | Salud y bienestar |
-| 4 | Educación de calidad |
-| 5 | Igualdad de género |
-| 6 | Agua limpia y saneamiento |
-| 7 | Energía asequible y no contaminante |
-| 8 | Trabajo decente y crecimiento económico |
-| 9 | Industria, innovación e infraestructura |
-| 10 | Reducción de las desigualdades |
-| 11 | Ciudades y comunidades sostenibles |
-| 12 | Producción y consumo responsables |
-| 13 | Acción por el clima |
-| 14 | Vida submarina |
-| 15 | Vida de ecosistemas terrestres |
-| 16 | Paz, justicia e instituciones sólidas |
-| 17 | Alianzas para lograr los objetivos |
+![Los 17 Objetivos de Desarrollo Sostenible (ODS)](imagenes/objetivos_desarrollo_sostenible.png)
 
 Para organizar y dar seguimiento a estos 17 objetivos, la propia Agenda 2030 los agrupa en **las 5P del desarrollo sostenible**:
 
