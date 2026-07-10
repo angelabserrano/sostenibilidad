@@ -186,6 +186,7 @@ Los marcos anteriores son compromisos políticos; para las empresas se concretan
 La **Inversión Socialmente Responsable (ISR)** es la inversión que busca rentabilidad económica junto con un impacto positivo social y ambiental, aplicando criterios ASG. Impulsa una economía más responsable, requiere colaboración público-privada y responde a una demanda creciente por parte de inversores, consumidores y clientes.
 
 **Principales vías de la ISR:**
+
 - **Fondos de inversión sostenibles** — depósitos en proyectos con enfoque justo/ético y de innovación.
 - **Bonos verdes y sociales** — deuda emitida específicamente para financiar proyectos responsables.
 - **Capital de riesgo social** — inversión en empresas que resuelven retos sociales y ambientales.
@@ -194,6 +195,7 @@ La **Inversión Socialmente Responsable (ISR)** es la inversión que busca renta
 Estas vías son aplicables a fondos de inversión, planes de pensiones, seguros de vida, capital riesgo y fondos temáticos (océanos, microfinanzas, energías limpias). Para que una inversión se considere ISR, la política debe expresar e integrar explícitamente factores ASG y de buen gobierno — esto incluye a la **banca ética**, que financia proyectos buscando retorno financiero y social a la vez.
 
 **Estrategias de ISR:**
+
 - **Exclusión** — evitar sectores con impactos o prácticas contrarias a la ética (tabaco, juego, armamento...).
 - **Integración ASG** — incorporar factores ASG al análisis de inversión; a igual rentabilidad/riesgo, se prioriza el mejor desempeño ASG.
 - **Cumplimiento de tratados internacionales** — excluir empresas que incumplen normas o acuerdos internacionales de sostenibilidad.
