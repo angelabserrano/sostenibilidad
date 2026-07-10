@@ -6,14 +6,7 @@
 
 En UD1 vimos los ODS como marco internacional (Agenda 2030). En esta unidad bajamos ese marco a la escala del puesto de trabajo: ¿qué significa, en el día a día de un profesional de administración de sistemas, contribuir a esos objetivos?
 
-| ODS | Traducción a la práctica profesional TIC |
-|---|---|
-| ODS 4 — Educación de calidad | Formación continua, mantenerse actualizado, compartir conocimiento con el equipo |
-| ODS 7 — Energía asequible y no contaminante | Elegir configuraciones y proveedores energéticamente eficientes cuando el puesto lo permite |
-| ODS 8 — Trabajo decente y crecimiento económico | Exigir y respetar condiciones laborales dignas, también en la cadena de proveedores TIC |
-| ODS 9 — Industria, innovación e infraestructura | Diseñar infraestructura resiliente y eficiente, no solo funcional |
-| ODS 12 — Producción y consumo responsables | Sobriedad digital, extensión de vida útil de equipos, evitar el desperdicio de recursos de cómputo |
-| ODS 13 — Acción por el clima | Reducir la huella de carbono de la infraestructura que administras |
+![Traducción de los ODS a la práctica profesional TIC](assets/img/ud3_traduccion_ods_practicas_TIC.png)
 
 **Idea clave:** un profesional no necesita cambiar de sector para actuar sobre los ODS — la mayoría de sus contribuciones posibles están dentro de las decisiones técnicas cotidianas de su propio puesto.
 
