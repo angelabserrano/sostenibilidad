@@ -20,3 +20,17 @@
     -webkit-mask-image: var(--md-admonition-icon--reto);
             mask-image: var(--md-admonition-icon--reto);
 }
+
+/* Título de cada actividad: barra de color a todo el ancho */
+.md-typeset .actividad-titulo {
+    display: block;
+    background-color: var(--md-primary-fg-color);
+    color: var(--md-primary-bg-color);
+    padding: 0.5em 0.9em;
+    border-radius: 4px;
+    margin: 1.4em 0 0.6em 0;
+}
+
+.md-typeset .actividad-titulo strong {
+    color: inherit;
+}

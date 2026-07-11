@@ -267,7 +267,7 @@ El sector TIC tiene un impacto ambiental propio y creciente, a menudo invisible 
 
 ## Actividades
 
-**Actividad 1 — Clasificación ASG de un informe real.**
+<div class="actividad-titulo"><strong>Actividad 1 — Clasificación ASG de un informe real.</strong></div>
 Elige, de forma individual, una de estas tres empresas tecnológicas y su informe de sostenibilidad más reciente:
 
 - **Microsoft** — [2025 Environmental Sustainability Report](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2025-Microsoft-Environmental-Sustainability-Report-PDF.pdf) (en inglés)
@@ -299,7 +299,7 @@ Empresa: **Apple** — [Environmental Progress Report 2025](https://www.apple.co
 
 </details>
 
-**Actividad 2 — Jerarquía de marcos internacionales.**
+<div class="actividad-titulo"><strong>Actividad 2 — Jerarquía de marcos internacionales.</strong></div>
 Este es el listado desordenado de medidas y marcos concretos:
 
 - Limitar el aumento de la temperatura media global muy por debajo de 2°C respecto a niveles preindustriales, intentando no superar 1,5°C.
@@ -314,13 +314,13 @@ Este es el listado desordenado de medidas y marcos concretos:
 
 Ordenad las 7 primeras medidas según su nivel (tratado internacional → política regional → ley nacional → plan/estrategia nacional) y explicad la relación de dependencia entre ellas. Las 2 últimas (ODS 13 y las 5P) no encajan en esa cadena: explicad por qué pertenecen a un marco distinto (Agenda 2030) y no son una traducción normativa del Acuerdo de París.
 
-**Actividad 2bis — El DAFO de la sostenibilidad, ¿sigue vigente? (debate)**
+<div class="actividad-titulo"><strong>Actividad 2bis — El DAFO de la sostenibilidad, ¿sigue vigente? (debate)</strong></div>
 Consultad el DAFO (Debilidades, Amenazas, Fortalezas, Oportunidades) que el Pacto Mundial de las Naciones Unidas elaboró en 2017 sobre la implantación de los ODS en España, dentro del informe *"ODS, año 2: Análisis, tendencias y liderazgo empresarial en España"* ([PDF](https://www.pactomundial.org/wp-content/uploads/2017/09/web_GUIA-ODS2_2017-v6.pdf)). En grupo, debatid: ¿qué puntos de ese DAFO siguen vigentes hoy? ¿Qué debilidades, amenazas, fortalezas u oportunidades añadiríais o eliminaríais a la luz de lo visto en esta unidad (marcos normativos, CSRD, Pacto Verde Europeo)?
 
-**Actividad 3 — Del dato técnico al marco ASG.**
+<div class="actividad-titulo"><strong>Actividad 3 — Del dato técnico al marco ASG.</strong></div>
 Trae contigo un script sencillo que capture el consumo de CPU/RAM de un proceso (`top`, `ps`, `free`, `uptime` — el mismo que estás usando en ASO). Con ese dato, redacta un informe breve explicando qué dimensión ASG afecta un proceso que consume recursos de forma ineficiente, relacionándolo con el concepto de PUE y Green IT, y con al menos un indicador ambiental de la tabla del punto 8.
 
-**Actividad 4 — Identifica el marco (dinámica rápida).**
+<div class="actividad-titulo"><strong>Actividad 4 — Identifica el marco (dinámica rápida).</strong></div>
 En grupo, se os repartirán 5 fragmentos breves, cada uno inspirado en cómo una empresa describiría su propia práctica de sostenibilidad. Para cada fragmento, identificad a qué marco o certificación corresponde (CSRD, ISO 14001, GRI, Pacto Mundial, ISO 26000) y justificad la elección en una frase:
 
 1. *"La compañía publica anualmente un informe auditado externamente que cuantifica tanto el impacto de sus operaciones sobre el clima como el impacto del cambio climático sobre sus resultados financieros."*
@@ -331,5 +331,5 @@ En grupo, se os repartirán 5 fragmentos breves, cada uno inspirado en cómo una
 
 **Bonus (si sobra tiempo):** *"La empresa ha emitido deuda destinada específicamente a financiar proyectos de eficiencia energética y energías renovables."* — ¿qué instrumento de ISR (punto 7) describe este fragmento?
 
-**Actividad 5 — Panel de indicadores (cierre de unidad).**
+<div class="actividad-titulo"><strong>Actividad 5 — Panel de indicadores (cierre de unidad).</strong></div>
 En grupo, diseñad un panel de indicadores (en una tabla o spreadsheet) que recoja los datos generados por vuestros propios scripts y tareas programadas (`cron`) de ASO. Clasificad cada indicador por dimensión ASG y por categoría (ambiental/social/institucional, punto 8) — por ejemplo: consumo energético de un proceso → Ambiental; gestión de accesos y permisos de usuarios → Gobernanza/Institucional.
