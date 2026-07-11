@@ -276,6 +276,29 @@ En grupos, elegid una de estas tres empresas tecnológicas y su informe de soste
 
 Identificad y clasificad 3 acciones concretas de la empresa elegida en cada una de las tres dimensiones (Ambiental / Social / Gobernanza), justificando a qué indicador de la tabla del punto 3 corresponde cada una. Identificad además dos grupos de interés (de la tabla del punto 4) especialmente afectados por esas acciones.
 
+<details markdown="1">
+<summary><strong>Ejemplo resuelto</strong> (empresa distinta a las 3 opciones — no sirve para copiar, solo para ver el nivel de detalle esperado)</summary>
+
+Empresa: **Apple** — [Environmental Progress Report 2025](https://www.apple.com/environment/pdf/Apple_Environmental_Progress_Report_2025.pdf) y [Proxy Statement (DEF 14A) 2025](https://www.sec.gov/Archives/edgar/data/320193/000130817925000008/aapl4359751-def14a.htm)
+
+| Dimensión | Acción concreta | Indicador (tabla del punto 3) |
+|---|---|---|
+| Ambiental | Reducción de más del 60% de las emisiones de gases de efecto invernadero desde 2015, dentro del objetivo "Apple 2030" de neutralidad de carbono en toda su cadena | Emisiones de CO₂ (alcance 1, 2 y 3) |
+| Ambiental | Carcasas de MacBook fabricadas con 100% aluminio reciclado y eliminación del plástico del embalaje (ahora 100% fibra reciclable) | Gestión de residuos / uso de materiales reciclados |
+| Ambiental | Uso de 100% cobalto reciclado en las baterías y 100% tierras raras recicladas en los imanes de sus productos | Consumo de materia prima |
+| Social | Código de Conducta de Proveedores (basado en normas de la OIT, la ONU y la EICC) que exige condiciones laborales seguras y trato digno en toda la cadena de suministro | Condiciones laborales (cadena de suministro global) |
+| Social | Programa de auditorías a proveedores (varios cientos al año, en fábricas donde trabajan cerca de 1,5 millones de personas) | Salud y seguridad |
+| Social | Formación a millones de trabajadores de la cadena de suministro sobre sus derechos laborales desde 2008 | Formación |
+| Gobernanza | El Comité de Nominaciones del consejo tiene la responsabilidad principal de supervisar los asuntos ambientales y sociales, incluido el gasto en políticas públicas | Composición y funciones del consejo de administración |
+| Gobernanza | El Comité de Auditoría supervisa privacidad, ciberseguridad y cumplimiento normativo como parte de la gestión de riesgos | Gestión de riesgos / ciberseguridad como riesgo de gobernanza |
+| Gobernanza | La Vicepresidenta de Medio Ambiente, Política Social e Iniciativas reporta periódicamente al consejo sobre el progreso hacia los objetivos climáticos | Transparencia en el reporting de sostenibilidad |
+
+**Grupos de interés especialmente afectados** (de la tabla del punto 4):
+- **Proveedores** — están directamente sujetos al Código de Conducta y al programa de auditorías laborales.
+- **Inversores** — el consejo vincula sostenibilidad y gestión de riesgos a nivel de comité, lo que influye en cómo evalúan el riesgo ASG de la empresa.
+
+</details>
+
 **Actividad 2 — Jerarquía de marcos internacionales.**
 Este es el listado desordenado de medidas y marcos concretos:
 
