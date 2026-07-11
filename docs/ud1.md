@@ -20,17 +20,9 @@ En términos más concretos, la sostenibilidad busca:
 
 El concepto de sostenibilidad no nace de golpe en un único documento: es el resultado de varias décadas de debate internacional sobre los límites del crecimiento económico.
 
-| Año | Hito | Aportación |
-|---|---|---|
-| 1972 | Informe *Los límites del crecimiento* (Club de Roma) | Primera advertencia con base en modelos matemáticos de que el crecimiento económico y demográfico ilimitado choca con recursos naturales finitos |
-| 1987 | Informe Brundtland *Nuestro futuro común* (ONU) | Define por primera vez "desarrollo sostenible": *el que satisface las necesidades del presente sin comprometer la capacidad de las generaciones futuras de satisfacer las suyas* |
-| 1992 | Cumbre de la Tierra de Río de Janeiro | Primer gran tratado internacional (Convención Marco de Naciones Unidas sobre el Cambio Climático — CMNUCC); nace el concepto de "desarrollo sostenible" como política de Estado |
-| 2000 | Objetivos de Desarrollo del Milenio (ODM) | 8 objetivos con horizonte 2015, centrados sobre todo en pobreza y desarrollo social; predecesores directos de los ODS |
-| 2015 | Acuerdo de París + Agenda 2030 (mismo año) | Consolidación del marco actual: objetivo climático global (París) + marco de desarrollo sostenible integral (ODS) |
+![Tabla de evolución del concepto de sostenibilidad: hitos de 1972 a 2015 y su aportación](assets/img/ud1_01_tabla_evolucion_sostenibilidad.png)
 
 **Idea clave:** la sostenibilidad pasó de ser una preocupación ambiental aislada (años 70) a un marco integral que abarca economía, sociedad y gobernanza (desde los años 90 hasta hoy).
-
-![Línea de tiempo de la evolución del concepto de sostenibilidad](assets/img/01_linea_tiempo.png)
 
 ## 2. El triple resultado (Triple Bottom Line) y las tres dimensiones
 
@@ -312,10 +304,10 @@ Ordenad las 7 primeras medidas según su nivel (tratado internacional → polít
 Consultad el DAFO (Debilidades, Amenazas, Fortalezas, Oportunidades) que el Pacto Mundial de las Naciones Unidas elaboró en 2017 sobre la implantación de los ODS en España, dentro del informe *"ODS, año 2: Análisis, tendencias y liderazgo empresarial en España"* ([PDF](https://www.pactomundial.org/wp-content/uploads/2017/09/web_GUIA-ODS2_2017-v6.pdf)). En grupo, debatid: ¿qué puntos de ese DAFO siguen vigentes hoy? ¿Qué debilidades, amenazas, fortalezas u oportunidades añadiríais o eliminaríais a la luz de lo visto en esta unidad (marcos normativos, CSRD, Pacto Verde Europeo)?
 
 <div class="actividad-titulo"><strong>Actividad 3 — Del dato técnico al marco ASG.</strong></div>
-Trae contigo un script sencillo que capture el consumo de CPU/RAM de un proceso (`top`, `ps`, `free`, `uptime` — el mismo que estás usando en ASO). Con ese dato, redacta un informe breve explicando qué dimensión ASG afecta un proceso que consume recursos de forma ineficiente, relacionándolo con el concepto de PUE y Green IT, y con al menos un indicador ambiental de la tabla del punto 8.
+Trae contigo un script sencillo que capture el consumo de CPU/RAM de un proceso (`top`, `ps`, `free`, `uptime` — el mismo que estás usando en ASO). Con ese dato, redacta un informe breve explicando qué dimensión ASG afecta un proceso que consume recursos de forma ineficiente, relacionándolo con el concepto de huella de carbono del software y las prácticas de Green IT (punto 9), y con al menos un indicador ambiental de la tabla del punto 8. Explica también por qué este caso no es lo mismo que el PUE: el PUE mide la eficiencia energética del centro de datos en su conjunto (instalación + refrigeración), no la eficiencia del código en sí.
 
-<div class="actividad-titulo"><strong>Actividad 4 — Identifica el marco (dinámica rápida).</strong></div>
-En grupo, se os repartirán 5 fragmentos breves, cada uno inspirado en cómo una empresa describiría su propia práctica de sostenibilidad. Para cada fragmento, identificad a qué marco o certificación corresponde (CSRD, ISO 14001, GRI, Pacto Mundial, ISO 26000) y justificad la elección en una frase:
+<div class="actividad-titulo"><strong>Actividad 4 — Identifica el marco (autoevaluación rápida).</strong></div>
+En grupo, sin mirar todavía el punto 6 de estos apuntes, leed cada uno de estos 5 fragmentos breves (inspirados en cómo una empresa describiría su propia práctica de sostenibilidad) e identificad a qué marco o certificación corresponde (CSRD, ISO 14001, GRI, Pacto Mundial, ISO 26000), justificando la elección en una frase. Comprobad después vuestra respuesta con el punto 6:
 
 1. *"La compañía publica anualmente un informe auditado externamente que cuantifica tanto el impacto de sus operaciones sobre el clima como el impacto del cambio climático sobre sus resultados financieros."*
 2. *"La empresa cuenta con un sistema de gestión ambiental certificado, verificado mediante auditorías externas periódicas, que sigue un ciclo de planificación, ejecución, verificación y ajuste continuo."*
@@ -323,7 +315,7 @@ En grupo, se os repartirán 5 fragmentos breves, cada uno inspirado en cómo una
 4. *"La organización se ha adherido voluntariamente a diez principios universales sobre derechos humanos, condiciones laborales, medio ambiente y lucha contra la corrupción."*
 5. *"La empresa dispone de una guía interna de responsabilidad social, no certificable, que orienta sus decisiones en materia de derechos humanos, prácticas laborales justas y participación en la comunidad."*
 
-**Bonus (si sobra tiempo):** *"La empresa ha emitido deuda destinada específicamente a financiar proyectos de eficiencia energética y energías renovables."* — ¿qué instrumento de ISR (punto 7) describe este fragmento?
+**Bonus (si sobra tiempo):** *"La empresa ha emitido deuda destinada específicamente a financiar proyectos de eficiencia energética y energías renovables."* — ¿qué instrumento de ISR describe este fragmento? Comprobad la respuesta con el punto 7.
 
 <div class="actividad-titulo"><strong>Actividad 5 — Panel de indicadores (cierre de unidad).</strong></div>
 En grupo, diseñad un panel de indicadores (en una tabla o spreadsheet) que recoja los datos generados por vuestros propios scripts y tareas programadas (`cron`) de ASO. Clasificad cada indicador por dimensión ASG y por categoría (ambiental/social/institucional, punto 8) — por ejemplo: consumo energético de un proceso → Ambiental; gestión de accesos y permisos de usuarios → Gobernanza/Institucional.
