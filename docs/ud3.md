@@ -70,7 +70,7 @@ Para un profesional de administración de sistemas, no hace falta cambiar de per
 
 ## 6. Sostenibilidad personal: hábitos y huella de carbono individual
 
-![Una persona trabajando en remoto desde su propio espacio](assets/img/ud3_teletrabajo.jpg)
+![Una persona trabajando en remoto desde su propio espacio](assets/img/ud3_teletrabajo.jpg){ width="360" }
 *Foto: Shixart1985, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), vía [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Attractuve_middle-aged_woman_working_on_laptop_at_home.jpg)*
 
 La **huella de carbono personal** se calcula habitualmente en tres grandes categorías:
