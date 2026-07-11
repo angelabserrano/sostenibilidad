@@ -31,6 +31,7 @@ Cuanto más arriba en esta jerarquía se actúa, mayor es el ahorro de recursos 
 ### 1.3 El diagrama de mariposa
 
 La Fundación Ellen MacArthur (referencia mundial en economía circular) representa el modelo circular con el llamado **diagrama de mariposa**: dos ciclos que salen de un mismo centro —
+
 - **Ciclo biológico** (ala izquierda): materiales orgánicos que pueden volver de forma segura a la naturaleza (compostaje, biodegradación).
 - **Ciclo técnico** (ala derecha): materiales y productos manufacturados (como el hardware TIC) que se mantienen en circulación mediante mantenimiento, reutilización, reacondicionamiento y reciclaje, sin perder valor innecesariamente.
 
