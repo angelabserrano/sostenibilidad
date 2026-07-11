@@ -45,6 +45,7 @@ De ahí derivan las tres dimensiones clásicas de la sostenibilidad:
 ![Las tres dimensiones convergen en el desarrollo sostenible](imagenes/02_triple_bottom_line.png)
 
 **Sostenibilidad débil vs. sostenibilidad fuerte:**
+
 - La *sostenibilidad débil* asume que el capital natural (recursos, ecosistemas) puede sustituirse por capital construido (tecnología, infraestructura) sin pérdida neta de bienestar.
 - La *sostenibilidad fuerte* sostiene que hay funciones ecológicas críticas (clima estable, biodiversidad, agua dulce) que no tienen sustituto tecnológico y deben protegerse como límites no negociables (concepto de "límites planetarios", Rockström et al., 2009).
 
@@ -149,6 +150,7 @@ Tratado internacional sobre cambio climático, adoptado el 12 de diciembre de 20
 Los marcos anteriores son compromisos políticos; para las empresas se concretan en **normativa de obligado cumplimiento** o **certificaciones voluntarias**:
 
 **CSRD (Corporate Sustainability Reporting Directive)** — Directiva (UE) 2022/2464
+
 - Sustituye y amplía la anterior Directiva de Información No Financiera (NFRD).
 - Obliga a un número creciente de empresas a publicar un informe de sostenibilidad auditado externamente, con el mismo nivel de exigencia que la información financiera.
 - Se aplica de forma escalonada: grandes empresas de interés público (desde ejercicio 2024), grandes empresas en general (desde 2025), PYMEs cotizadas (desde 2026, con posibilidad de aplazamiento).
@@ -156,6 +158,7 @@ Los marcos anteriores son compromisos políticos; para las empresas se concretan
 - Se desarrolla técnicamente mediante los estándares **ESRS** (European Sustainability Reporting Standards).
 
 **ISO 14001** — Sistemas de gestión ambiental
+
 - Norma internacional certificable (auditoría externa) que acredita que una organización tiene implantado un sistema de gestión ambiental.
 - Se basa en el ciclo de mejora continua **PDCA** (Plan-Do-Check-Act: planificar, hacer, verificar, actuar).
 - A diferencia de la CSRD (que exige *reportar* impactos), la ISO 14001 exige *gestionar activamente* esos impactos con un sistema documentado.
@@ -163,6 +166,7 @@ Los marcos anteriores son compromisos políticos; para las empresas se concretan
 ![Ciclo PDCA: Plan, Do, Check, Act](imagenes/07_pdca.png)
 
 **Otros marcos de referencia relevantes:**
+
 - **GRI (Global Reporting Initiative):** estándares de reporting de sostenibilidad más usados a nivel mundial antes de la CSRD; muchas empresas siguen usándolos como complemento.
 - **Pacto Mundial de Naciones Unidas (UN Global Compact):** compromiso voluntario en torno a 10 principios sobre derechos humanos, trabajo, medio ambiente y anticorrupción.
 - **ISO 26000:** guía (no certificable) sobre responsabilidad social de las organizaciones.
@@ -280,6 +284,7 @@ Empresa: **Apple** — [Environmental Progress Report 2025](https://www.apple.co
 | Gobernanza | La Vicepresidenta de Medio Ambiente, Política Social e Iniciativas reporta periódicamente al consejo sobre el progreso hacia los objetivos climáticos | Transparencia en el reporting de sostenibilidad |
 
 **Grupos de interés especialmente afectados** (de la tabla del punto 4):
+
 - **Proveedores** — están directamente sujetos al Código de Conducta y al programa de auditorías laborales.
 - **Inversores** — el consejo vincula sostenibilidad y gestión de riesgos a nivel de comité, lo que influye en cómo evalúan el riesgo ASG de la empresa.
 
