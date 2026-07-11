@@ -1,11 +1,23 @@
 # UD1 — Sostenibilidad, ASG y marcos internacionales
 
-![Parque eólico marino](assets/img/10_renovables.jpg)
-*Foto: Andy Dingley (edición: Muhammad Mahdi Karim), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), vía [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Barrow_Offshore_wind_turbines_NR.jpg)*
+![Sala de servidores de un centro de datos, iluminación LED azul](assets/img/ud1_00_portada_datacenter.jpg)
+*Foto: BalticServers.com, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), vía [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg)*
+
+**💡 Antes de empezar...**
+
+Cada vez que ves una serie, consultas una IA o guardas un archivo en la nube, miles de servidores trabajan para que todo funcione.
+
+Como administrador de sistemas, serás responsable de esa infraestructura.
+
+La forma en que configures los servidores, gestiones el almacenamiento o renueves el hardware tendrá un impacto económico, social y ambiental.
+
+Eso también es **sostenibilidad**.
 
 ---
 
 ## 1. Origen y evolución del concepto de sostenibilidad
+
+![Mapa de la Unidad 1: paso 1 de 9](assets/img/ud1_mapa_1.png)
 
 **¿Qué es la sostenibilidad?**
 
@@ -25,6 +37,8 @@ El concepto de sostenibilidad no nace de golpe en un único documento: es el res
 **Idea clave:** la sostenibilidad pasó de ser una preocupación ambiental aislada (años 70) a un marco integral que abarca economía, sociedad y gobernanza (desde los años 90 hasta hoy).
 
 ## 2. El triple resultado (Triple Bottom Line) y las tres dimensiones
+
+![Mapa de la Unidad 1: paso 2 de 9](assets/img/ud1_mapa_2.png)
 
 En 1994, John Elkington acuñó el concepto de **Triple Bottom Line** (*People, Planet, Profit*): una empresa sostenible no se mide solo por su beneficio económico, sino por el balance conjunto de sus resultados económicos, sociales y ambientales.
 
@@ -51,6 +65,8 @@ De ahí derivan las tres dimensiones clásicas de la sostenibilidad:
 
 ## 3. Los criterios ASG (Ambiental, Social, Gobernanza)
 
+![Mapa de la Unidad 1: paso 3 de 9](assets/img/ud1_mapa_3.png)
+
 Cuando estas tres dimensiones se aplican al mundo empresarial, se convierten en criterios **ASG**: el estándar que usan las organizaciones para medir, gestionar y reportar su sostenibilidad de forma comparable entre empresas.
 
 ![Tabla de criterios ASG: qué mide cada dimensión, indicadores típicos y ejemplos en el sector TIC](assets/img/ud1_03_tabla_criterios.png)
@@ -58,6 +74,8 @@ Cuando estas tres dimensiones se aplican al mundo empresarial, se convierten en 
 Los criterios ASG **ya no son solo una declaración voluntaria de buenas intenciones**: cada vez más marcos legales obligan a medirlos, auditarlos y publicarlos (ver punto 6).
 
 ## 4. Los grupos de interés (stakeholders) y los criterios ASG
+
+![Mapa de la Unidad 1: paso 4 de 9](assets/img/ud1_mapa_4.png)
 
 Las decisiones empresariales afectan a múltiples **grupos de interés (stakeholders)**, internos y externos — y, a su vez, las decisiones de esos grupos pueden beneficiar o perjudicar a la empresa. Cada grupo tiene intereses, metas y ambiciones propias, por lo que es habitual que surjan tensiones entre ellos: por ejemplo, los accionistas suelen buscar maximizar el beneficio, mientras los empleados priorizan las condiciones sociolaborales — un conflicto que la empresa debe equilibrar. Los criterios ASG ayudan precisamente a identificar y gestionar estos intereses y su impacto en la empresa.
 
@@ -81,6 +99,8 @@ Las decisiones empresariales afectan a múltiples **grupos de interés (stakehol
 Esta clasificación se retomará en UD6, donde se aplicará a un caso concreto (mediante una matriz de poder-interés) para diseñar un plan de sostenibilidad real.
 
 ## 5. Marcos internacionales de referencia
+
+![Mapa de la Unidad 1: paso 5 de 9](assets/img/ud1_mapa_5.png)
 
 ### 5.1 Agenda 2030, los ODS y las 5P
 
@@ -147,6 +167,8 @@ Tratado internacional sobre cambio climático, adoptado el 12 de diciembre de 20
 
 ## 6. De los marcos a la norma: gobernanza y reporting
 
+![Mapa de la Unidad 1: paso 6 de 9](assets/img/ud1_mapa_6.png)
+
 Los marcos anteriores son compromisos políticos; para las empresas se concretan en **normativa de obligado cumplimiento** o **certificaciones voluntarias**:
 
 **CSRD (Corporate Sustainability Reporting Directive)** — Directiva (UE) 2022/2464
@@ -173,6 +195,8 @@ Los marcos anteriores son compromisos políticos; para las empresas se concretan
 
 ## 7. Inversión Socialmente Responsable (ISR)
 
+![Mapa de la Unidad 1: paso 7 de 9](assets/img/ud1_mapa_7.png)
+
 La **Inversión Socialmente Responsable (ISR)** es la inversión que busca rentabilidad económica junto con un impacto positivo social y ambiental, aplicando criterios ASG. Impulsa una economía más responsable, requiere colaboración público-privada y responde a una demanda creciente por parte de inversores, consumidores y clientes.
 
 **Principales vías de la ISR:**
@@ -195,6 +219,8 @@ Estas vías son aplicables a fondos de inversión, planes de pensiones, seguros 
 
 ## 8. Indicadores de sostenibilidad
 
+![Mapa de la Unidad 1: paso 8 de 9](assets/img/ud1_mapa_8.png)
+
 Un **indicador de sostenibilidad** es un factor medible que orienta y garantiza que la actividad de una organización sea sostenible en el tiempo y en sus acciones. Una empresa es sostenible si crea valor económico, ambiental y social a corto y largo plazo, y contribuye al progreso social. Los planes de sostenibilidad se evalúan con indicadores ligados a objetivos concretos, con cronogramas y referencias a normas o recomendaciones aceptadas (por ejemplo: reducir las emisiones de CO₂ para alinearse con la Agenda 2030).
 
 **Categorías de indicadores:**
@@ -215,8 +241,10 @@ Un indicador bien diseñado suele expresarse como **KPI (Key Performance Indicat
 
 ## 9. El sector TIC y la dimensión ambiental
 
-![Sala de servidores de un centro de datos](assets/img/09_datacenter.jpg)
-*Foto: BalticServers.com, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), vía [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg)*
+![Mapa de la Unidad 1: paso 9 de 9](assets/img/ud1_mapa_9.png)
+
+![Pasillo de un centro de datos con racks cerrados y tuberías de extinción de incendios](assets/img/ud1_09_datacenter_arsat.jpg)
+*Foto: IMarcoHerrera, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), vía [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Datacenter_de_ARSAT.jpg)*
 
 El sector TIC tiene un impacto ambiental propio y creciente, a menudo invisible por no tratarse de una industria "física" en el sentido tradicional:
 
