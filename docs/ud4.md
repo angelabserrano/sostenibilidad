@@ -107,17 +107,17 @@ RA4 pide explícitamente "proponer productos y servicios responsables" — no so
 
 ## Actividades
 
-**Actividad 1 — Del modelo lineal al modelo circular.**
+<div class="actividad-titulo"><strong>Actividad 1 — Del modelo lineal al modelo circular.</strong></div>
 En grupo, elegid un dispositivo TIC (portátil, smartphone o servidor) y dibujad su ciclo de vida completo según el modelo lineal actual. Después, rediseñad ese mismo ciclo aplicando al menos tres de las "R" vistas en el punto 1, indicando en qué fase concreta interviene cada una.
 
-**Actividad 2 — Caso de ecodiseño y derecho a reparar.**
+<div class="actividad-titulo"><strong>Actividad 2 — Caso de ecodiseño y derecho a reparar.</strong></div>
 Investigad un producto tecnológico diseñado explícitamente para ser reparable (por ejemplo, Fairphone) y comparadlo con un producto convencional de gama similar, usando como referencia un índice de reparabilidad si está disponible (ej. iFixit). Identificad qué requisitos de la ESPR o de la Directiva del Derecho a Reparar cumpliría cada uno.
 
-**Actividad 3 — Auditoría del ciclo de vida de licencias.**
+<div class="actividad-titulo"><strong>Actividad 3 — Auditoría del ciclo de vida de licencias.</strong></div>
 En grupo, diseñad un script (en PowerShell, si ya lo estáis viendo en ASO) o un procedimiento detallado que audite las licencias de software instaladas/asignadas en un conjunto de equipos, identificando licencias sin uso o asignadas a cuentas de baja. Explicad qué principio de economía circular (de la lista de "R") aplica esta auditoría.
 
-**Actividad 4 — Gestión del ciclo de vida de equipos con Directorio Activo.**
+<div class="actividad-titulo"><strong>Actividad 4 — Gestión del ciclo de vida de equipos con Directorio Activo.</strong></div>
 En grupo, diseñad una política de gestión de activos usando Active Directory: cómo identificar equipos próximos al fin de su vida útil, cómo marcarlos para reacondicionamiento o reciclaje, y cómo evitar "cuentas huérfanas" o equipos fantasma que sigan generando gasto de licencias o recursos sin uso real.
 
-**Actividad 5 — Propuesta de producto o servicio circular (cierre de unidad, evaluable).**
+<div class="actividad-titulo"><strong>Actividad 5 — Propuesta de producto o servicio circular (cierre de unidad, evaluable).</strong></div>
 De forma individual o en pareja, diseña una propuesta breve de un producto o servicio TIC responsable (hardware, software o servicio en la nube) que aplique al menos dos principios de economía circular de esta unidad. Debe incluir: qué problema del modelo lineal resuelve, qué estrategia circular aplica, y a qué normativa (ESPR, Derecho a Reparar, WEEE) respondería si existiera hoy en el mercado.

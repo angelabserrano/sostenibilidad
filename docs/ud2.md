@@ -129,17 +129,17 @@ La **CSDDD** (Corporate Sustainability Due Diligence Directive, Directiva (UE) 2
 
 ## Actividades
 
-**Actividad 1 — Investigación de un reto ambiental y uno social.**
+<div class="actividad-titulo"><strong>Actividad 1 — Investigación de un reto ambiental y uno social.</strong></div>
 En grupos, elegid un reto ambiental (punto 1) y un reto social (punto 2). Buscad un dato cuantitativo reciente y fiable para cada uno (organismo de referencia: IPCC, IPBES, ONU, Banco Mundial...) y preparad una presentación breve explicando por qué ese reto es relevante para el sector TIC.
 
-**Actividad 2 — El origen de un smartphone o un servidor.**
+<div class="actividad-titulo"><strong>Actividad 2 — El origen de un smartphone o un servidor.</strong></div>
 En grupo, elegid un dispositivo (smartphone, portátil o servidor) y trazad, con la información disponible públicamente, el origen de al menos tres de sus materiales críticos (litio, cobalto, tantalio, tierras raras...). Identificad qué normativa (Reglamento UE 2017/821, CSDDD) sería aplicable a la empresa fabricante.
 
-**Actividad 3 — Diseño de una política de acceso remoto.**
+<div class="actividad-titulo"><strong>Actividad 3 — Diseño de una política de acceso remoto.</strong></div>
 En grupo, diseñad los criterios de una política de teletrabajo/acceso remoto para una empresa TIC, evaluando: (a) el beneficio ambiental (reducción de desplazamientos), (b) el riesgo social de dejar a alguien fuera por brecha digital, y (c) al menos una medida concreta para mitigar ese riesgo.
 
-**Actividad 4 — ¿Dónde ubicar un centro de datos?**
+<div class="actividad-titulo"><strong>Actividad 4 — ¿Dónde ubicar un centro de datos?</strong></div>
 En grupo, debatid la ubicación de un nuevo centro de datos considerando riesgo físico (inundación, ola de calor, disponibilidad de agua para refrigeración) y riesgo de transición (normativa de eficiencia energética, coste de energía renovable disponible en la zona). Justificad vuestra elección de ubicación con al menos dos criterios de cada tipo de riesgo.
 
-**Actividad 5 — Propuesta de acciones (cierre de unidad).**
+<div class="actividad-titulo"><strong>Actividad 5 — Propuesta de acciones (cierre de unidad).</strong></div>
 De forma individual, elige uno de los retos trabajados en la unidad (ambiental o social) y propone tres acciones concretas para minimizarlo desde el rol de un profesional de administración de sistemas, indicando si cada acción es de mitigación o de adaptación, y con qué marco (RSC, ASG, CSDDD...) se relaciona.

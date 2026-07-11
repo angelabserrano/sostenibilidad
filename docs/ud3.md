@@ -101,17 +101,17 @@ Más allá de la huella personal, un profesional puede influir en la **cultura d
 
 ## Actividades
 
-**Actividad 1 — De los ODS a mi puesto de trabajo.**
+<div class="actividad-titulo"><strong>Actividad 1 — De los ODS a mi puesto de trabajo.</strong></div>
 De forma individual, elige tres ODS de la tabla del punto 1 y describe una acción concreta que podrías aplicar en un puesto de administración de sistemas para contribuir a cada uno. Debe ser una acción técnica realista, no una declaración de intenciones genérica.
 
-**Actividad 2 — Comparativa de compra sostenible.**
+<div class="actividad-titulo"><strong>Actividad 2 — Comparativa de compra sostenible.</strong></div>
 En grupo, comparad dos equipos (servidor, portátil o similar) con distintas certificaciones ambientales (ENERGY STAR, EPEAT, TCO Certified). Calculad de forma aproximada el coste total de propiedad de cada uno a 4 años, incluyendo una estimación de consumo energético, y justificad cuál recomendaríais y por qué.
 
-**Actividad 3 — Playbook de eficiencia.**
+<div class="actividad-titulo"><strong>Actividad 3 — Playbook de eficiencia.</strong></div>
 En grupo, diseñad un playbook de Ansible (o su pseudocódigo/esquema, si aún no se ha visto en detalle en ASO) que aplique un criterio de sostenibilidad a un conjunto de servidores: por ejemplo, apagado programado de entornos de pruebas fuera de horario, o homogeneización de una configuración de ahorro de energía. Explicad qué problema de ineficiencia evita la automatización frente a hacerlo manualmente.
 
-**Actividad 4 — Perfiles profesionales en sostenibilidad TIC.**
+<div class="actividad-titulo"><strong>Actividad 4 — Perfiles profesionales en sostenibilidad TIC.</strong></div>
 Investigad una oferta de empleo real (o una certificación) relacionada con sostenibilidad TIC (Green IT, auditor ISO 14001, analista ASG...). Identificad qué competencias técnicas y de sostenibilidad exige, y comparadlas con las competencias que ya estáis adquiriendo en el ciclo.
 
-**Actividad 5 — Mi plan personal de sostenibilidad profesional (cierre de unidad, evaluable).**
+<div class="actividad-titulo"><strong>Actividad 5 — Mi plan personal de sostenibilidad profesional (cierre de unidad, evaluable).</strong></div>
 De forma individual, redacta un breve plan con tres compromisos concretos: uno relacionado con tus hábitos digitales personales (sobriedad digital), uno relacionado con una práctica técnica que aplicarás quando administres sistemas (ej. virtualización, automatización, apagado programado), y uno relacionado con tu desarrollo profesional (formación o certificación en sostenibilidad TIC que te interesaría seguir).

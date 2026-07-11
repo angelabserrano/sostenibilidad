@@ -135,17 +135,17 @@ Esta unidad cierra el módulo aplicando, sobre un caso concreto, todo el recorri
 
 ## Actividades
 
-**Actividad 0 — Analizar un plan de sostenibilidad real (preparación).**
+<div class="actividad-titulo"><strong>Actividad 0 — Analizar un plan de sostenibilidad real (preparación).</strong></div>
 Antes de diseñar vuestro propio plan, entrad en la web corporativa de una gran empresa española (por ejemplo, CEPSA, Repsol o Endesa — todas publican su plan de sostenibilidad en abierto) y descargad su plan de sostenibilidad público. Identificad en él las mismas piezas vistas en el punto 1: ¿qué diagnóstico plantean?, ¿mencionan explícitamente a sus grupos de interés?, ¿qué aspectos priorizan?, ¿qué indicadores usan? Esto os servirá de referencia real antes de aplicar la misma lógica a vuestra propia infraestructura en la Actividad 4.
 
-**Actividad 1 — Mapa de grupos de interés.**
+<div class="actividad-titulo"><strong>Actividad 1 — Mapa de grupos de interés.</strong></div>
 En grupo, identificad los grupos de interés de la infraestructura TIC que habéis diseñado en ASO (o de una empresa TIC real, si se prefiere un caso ajeno). Clasificadlos en la matriz de poder-interés del punto 2.2 y justificad, para cada cuadrante, cómo debería relacionarse la organización con ese grupo.
 
-**Actividad 2 — Matriz de materialidad.**
+<div class="actividad-titulo"><strong>Actividad 2 — Matriz de materialidad.</strong></div>
 En grupo, a partir de los aspectos ASG trabajados en UD1-UD4 (consumo energético, gestión de licencias, ciclo de vida del hardware, gestión de accesos, brecha digital...), situad al menos 6 aspectos en una matriz de materialidad (importancia para el negocio / importancia para los grupos de interés) y determinad cuáles serían prioritarios para vuestro plan.
 
-**Actividad 3 — Indicadores SMART.**
+<div class="actividad-titulo"><strong>Actividad 3 — Indicadores SMART.</strong></div>
 Para los 3 aspectos materiales que hayáis priorizado en la Actividad 2, diseñad un indicador SMART para cada uno, siguiendo la tabla del punto 4.2 como modelo.
 
-**Actividad 4 — Plan de sostenibilidad de la infraestructura del proyecto final (cierre de unidad y del módulo, evaluable).**
+<div class="actividad-titulo"><strong>Actividad 4 — Plan de sostenibilidad de la infraestructura del proyecto final (cierre de unidad y del módulo, evaluable).</strong></div>
 De forma individual o en grupo (según se acuerde con el proyecto final de ASO), redactad el plan de sostenibilidad completo de la infraestructura desarrollada a lo largo del curso, siguiendo la estructura del punto 1: diagnóstico, grupos de interés (Actividad 1), aspectos materiales priorizados (Actividad 2), indicadores (Actividad 3) y al menos 3 acciones concretas con responsable, recursos, plazo e indicador de seguimiento.
