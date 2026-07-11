@@ -64,8 +64,6 @@ Cuando estas tres dimensiones se aplican al mundo empresarial, se convierten en 
 
 Los criterios ASG **ya no son solo una declaración voluntaria de buenas intenciones**: cada vez más marcos legales obligan a medirlos, auditarlos y publicarlos (ver punto 6).
 
-![Los criterios ASG se ramifican en tres bloques: ambiental, social y gobernanza](assets/img/03_criterios_asg.png)
-
 ## 4. Los grupos de interés (stakeholders) y los criterios ASG
 
 Las decisiones empresariales afectan a múltiples **grupos de interés (stakeholders)**, internos y externos — y, a su vez, las decisiones de esos grupos pueden beneficiar o perjudicar a la empresa. Cada grupo tiene intereses, metas y ambiciones propias, por lo que es habitual que surjan tensiones entre ellos: por ejemplo, los accionistas suelen buscar maximizar el beneficio, mientras los empleados priorizan las condiciones sociolaborales — un conflicto que la empresa debe equilibrar. Los criterios ASG ayudan precisamente a identificar y gestionar estos intereses y su impacto en la empresa.
