@@ -60,11 +60,7 @@ De ahí derivan las tres dimensiones clásicas de la sostenibilidad:
 
 Cuando estas tres dimensiones se aplican al mundo empresarial, se convierten en criterios **ASG**: el estándar que usan las organizaciones para medir, gestionar y reportar su sostenibilidad de forma comparable entre empresas.
 
-| Dimensión | Qué mide | Indicadores típicos | Ejemplos en el sector TIC |
-|---|---|---|---|
-| **Ambiental (A)** | Impacto sobre el entorno natural | Emisiones de CO₂ (alcance 1, 2 y 3), consumo energético, consumo de agua, gestión de residuos, uso de energías renovables | Consumo energético de datacenters, huella de carbono del software, gestión de residuos electrónicos (e-waste), eficiencia del hardware |
-| **Social (S)** | Impacto sobre personas y comunidades | Condiciones laborales, brecha salarial, diversidad e inclusión, formación, salud y seguridad, impacto en comunidades locales | Condiciones laborales en el desarrollo de software (incluida la cadena de suministro global), brecha digital, accesibilidad de los productos, diversidad en equipos técnicos |
-| **Gobernanza (G)** | Cómo se dirige y controla la organización | Composición y diversidad del consejo de administración, políticas anticorrupción, transparencia retributiva, gestión de riesgos, ética empresarial | Transparencia en el reporting de sostenibilidad, ética en el uso de datos y algoritmos, cumplimiento normativo (compliance), ciberseguridad como riesgo de gobernanza |
+![Tabla de criterios ASG: qué mide cada dimensión, indicadores típicos y ejemplos en el sector TIC](imagenes/ud1_03_tabla_criterios.png)
 
 Los criterios ASG **ya no son solo una declaración voluntaria de buenas intenciones**: cada vez más marcos legales obligan a medirlos, auditarlos y publicarlos (ver punto 6).
 
