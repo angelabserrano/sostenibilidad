@@ -268,13 +268,13 @@ El sector TIC tiene un impacto ambiental propio y creciente, a menudo invisible 
 ## Actividades
 
 **Actividad 1 — Clasificación ASG de un informe real.**
-En grupos, elegid una de estas tres empresas tecnológicas y su informe de sostenibilidad más reciente:
+Elige, de forma individual, una de estas tres empresas tecnológicas y su informe de sostenibilidad más reciente:
 
 - **Microsoft** — [2025 Environmental Sustainability Report](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2025-Microsoft-Environmental-Sustainability-Report-PDF.pdf) (en inglés)
 - **Google** — [2025 Environmental Report](https://sustainability.google/intl/es-419/reports/google-2025-environmental-report/) (en inglés)
 - **AWS (Amazon)** — [2024 Amazon Sustainability Report, resumen AWS](https://sustainability.aboutamazon.com/2024-amazon-sustainability-report-aws-summary.pdf) (en inglés)
 
-Identificad y clasificad 3 acciones concretas de la empresa elegida en cada una de las tres dimensiones (Ambiental / Social / Gobernanza), justificando a qué indicador de la tabla del punto 3 corresponde cada una. Identificad además dos grupos de interés (de la tabla del punto 4) especialmente afectados por esas acciones.
+Identifica y clasifica 3 acciones concretas de la empresa elegida en cada una de las tres dimensiones (Ambiental / Social / Gobernanza), justificando a qué indicador de la tabla del punto 3 corresponde cada una. Identifica además dos grupos de interés (de la tabla del punto 4) especialmente afectados por esas acciones.
 
 <details markdown="1">
 <summary><strong>Ejemplo resuelto</strong> (empresa distinta a las 3 opciones — no sirve para copiar, solo para ver el nivel de detalle esperado)</summary>
