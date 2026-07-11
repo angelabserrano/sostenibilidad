@@ -267,7 +267,7 @@ El sector TIC tiene un impacto ambiental propio y creciente, a menudo invisible 
 
 ## Actividades
 
-**Actividad 1 — Mapa conceptual ASG.**
+**Actividad 1 — Clasificación ASG de un informe real.**
 En grupos, elegid una de estas tres empresas tecnológicas y su informe de sostenibilidad más reciente:
 
 - **Microsoft** — [2025 Environmental Sustainability Report](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2025-Microsoft-Environmental-Sustainability-Report-PDF.pdf) (en inglés)
@@ -277,16 +277,36 @@ En grupos, elegid una de estas tres empresas tecnológicas y su informe de soste
 Identificad y clasificad 3 acciones concretas de la empresa elegida en cada una de las tres dimensiones (Ambiental / Social / Gobernanza), justificando a qué indicador de la tabla del punto 3 corresponde cada una. Identificad además dos grupos de interés (de la tabla del punto 4) especialmente afectados por esas acciones.
 
 **Actividad 2 — Jerarquía de marcos internacionales.**
-Se os entregará un listado desordenado de medidas concretas (por ejemplo: "reducir 55% emisiones UE para 2030", "límite 1,5°C", "ODS 13 acción por el clima", "Ley 7/2021 España", "PNIEC"). Ordenadlas según su nivel (tratado internacional → política regional → ley nacional → plan nacional) y explicad la relación de dependencia entre ellas.
+Este es el listado desordenado de medidas y marcos concretos:
+
+- Limitar el aumento de la temperatura media global muy por debajo de 2°C respecto a niveles preindustriales, intentando no superar 1,5°C.
+- Reducir un 55% las emisiones de la UE para 2030 respecto a niveles de 1990 (paquete legislativo *Fit for 55*).
+- Taxonomía verde europea: clasificación de qué actividades económicas se consideran "ambientalmente sostenibles" (Reglamento UE 2020/852).
+- Alcanzar la neutralidad climática en España en 2050, con una reducción del 23% de emisiones para 2030 respecto a 1990 (Ley 7/2021).
+- Fijar los objetivos concretos y cuantificados de reducción de emisiones y despliegue de renovables para cada periodo (PNIEC).
+- Acompañar a los territorios y sectores más afectados por la descarbonización con fondos específicos (Estrategia de Transición Justa).
+- Convención Marco de Naciones Unidas sobre el Cambio Climático (CMNUCC), adoptada en la Cumbre de la Tierra de Río de Janeiro (1992).
+- ODS 13 — Acción por el clima: integrar medidas contra el cambio climático en las políticas, estrategias y planes de las organizaciones.
+- Las 5P del desarrollo sostenible: Personas, Planeta, Prosperidad, Paz y Participación.
+
+Ordenad las 7 primeras medidas según su nivel (tratado internacional → política regional → ley nacional → plan/estrategia nacional) y explicad la relación de dependencia entre ellas. Las 2 últimas (ODS 13 y las 5P) no encajan en esa cadena: explicad por qué pertenecen a un marco distinto (Agenda 2030) y no son una traducción normativa del Acuerdo de París.
 
 **Actividad 2bis — El DAFO de la sostenibilidad, ¿sigue vigente? (debate)**
-Buscad el DAFO (Debilidades, Amenazas, Fortalezas, Oportunidades) que el Pacto Mundial de las Naciones Unidas elaboró en 2018 sobre la implantación de los ODS en España (es un documento público, disponible en la web de la Red Española del Pacto Mundial). En grupo, debatid: ¿qué puntos de ese DAFO siguen vigentes hoy? ¿Qué debilidades, amenazas, fortalezas u oportunidades añadiríais o eliminaríais a la luz de lo visto en esta unidad (marcos normativos, CSRD, Pacto Verde Europeo)?
+Consultad el DAFO (Debilidades, Amenazas, Fortalezas, Oportunidades) que el Pacto Mundial de las Naciones Unidas elaboró en 2017 sobre la implantación de los ODS en España, dentro del informe *"ODS, año 2: Análisis, tendencias y liderazgo empresarial en España"* ([PDF](https://www.pactomundial.org/wp-content/uploads/2017/09/web_GUIA-ODS2_2017-v6.pdf)). En grupo, debatid: ¿qué puntos de ese DAFO siguen vigentes hoy? ¿Qué debilidades, amenazas, fortalezas u oportunidades añadiríais o eliminaríais a la luz de lo visto en esta unidad (marcos normativos, CSRD, Pacto Verde Europeo)?
 
 **Actividad 3 — Del dato técnico al marco ASG.**
 Trae contigo un script sencillo que capture el consumo de CPU/RAM de un proceso (`top`, `ps`, `free`, `uptime` — el mismo que estás usando en ASO). Con ese dato, redacta un informe breve explicando qué dimensión ASG afecta un proceso que consume recursos de forma ineficiente, relacionándolo con el concepto de PUE y Green IT, y con al menos un indicador ambiental de la tabla del punto 8.
 
-**Actividad 4 — Análisis de un caso real.**
-En grupo, analizad una memoria de sostenibilidad de una empresa del sector IT (o un pliego público con cláusulas ASG). Identificad qué marco normativo o certificación (CSRD, ISO 14001, GRI, Pacto Mundial, ISO 26000) respalda cada apartado del documento, y si la empresa menciona algún instrumento de Inversión Socialmente Responsable (bonos verdes, fondos sostenibles...).
+**Actividad 4 — Identifica el marco (dinámica rápida).**
+En grupo, se os repartirán 5 fragmentos breves, cada uno inspirado en cómo una empresa describiría su propia práctica de sostenibilidad. Para cada fragmento, identificad a qué marco o certificación corresponde (CSRD, ISO 14001, GRI, Pacto Mundial, ISO 26000) y justificad la elección en una frase:
+
+1. *"La compañía publica anualmente un informe auditado externamente que cuantifica tanto el impacto de sus operaciones sobre el clima como el impacto del cambio climático sobre sus resultados financieros."*
+2. *"La empresa cuenta con un sistema de gestión ambiental certificado, verificado mediante auditorías externas periódicas, que sigue un ciclo de planificación, ejecución, verificación y ajuste continuo."*
+3. *"Los indicadores de emisiones, uso de agua y diversidad de la plantilla se reportan siguiendo los estándares de sostenibilidad corporativa más usados a nivel mundial antes de la normativa europea actual."*
+4. *"La organización se ha adherido voluntariamente a diez principios universales sobre derechos humanos, condiciones laborales, medio ambiente y lucha contra la corrupción."*
+5. *"La empresa dispone de una guía interna de responsabilidad social, no certificable, que orienta sus decisiones en materia de derechos humanos, prácticas laborales justas y participación en la comunidad."*
+
+**Bonus (si sobra tiempo):** *"La empresa ha emitido deuda destinada específicamente a financiar proyectos de eficiencia energética y energías renovables."* — ¿qué instrumento de ISR (punto 7) describe este fragmento?
 
 **Actividad 5 — Panel de indicadores (cierre de unidad).**
 En grupo, diseñad un panel de indicadores (en una tabla o spreadsheet) que recoja los datos generados por vuestros propios scripts y tareas programadas (`cron`) de ASO. Clasificad cada indicador por dimensión ASG y por categoría (ambiental/social/institucional, punto 8) — por ejemplo: consumo energético de un proceso → Ambiental; gestión de accesos y permisos de usuarios → Gobernanza/Institucional.
