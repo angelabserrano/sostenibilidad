@@ -7,6 +7,8 @@
 
 ## 1. Qué es un plan de sostenibilidad empresarial
 
+![Mapa de la Unidad 6: paso 1 de 6](imagenes/ud6_mapa_1.png)
+
 Un **plan de sostenibilidad** es el documento en el que una organización recoge, de forma sistemática, cómo va a gestionar sus aspectos ASG (ambientales, sociales y de gobernanza — ver UD1). No es una declaración de intenciones: es una herramienta de gestión con estructura y seguimiento, comparable en rigor a un plan de negocio.
 
 Estructura habitual de un plan de sostenibilidad:
@@ -23,6 +25,8 @@ Estructura habitual de un plan de sostenibilidad:
 Esta estructura sigue una lógica de mejora continua muy similar al ciclo **PDCA** (Plan-Do-Check-Act) de la norma ISO 14001 vista en UD1: planificar (diagnóstico + objetivos), hacer (ejecutar las acciones), verificar (medir con indicadores) y actuar (ajustar el plan según los resultados).
 
 ## 2. Grupos de interés (stakeholders)
+
+![Mapa de la Unidad 6: paso 2 de 6](imagenes/ud6_mapa_2.png)
 
 Un **grupo de interés (stakeholder)** es cualquier persona, colectivo u organización que se ve afectado por la actividad de una organización, o que puede influir en ella.
 
@@ -54,6 +58,8 @@ Identificar a los grupos de interés no basta: un plan de sostenibilidad robusto
 
 ## 3. Análisis de materialidad
 
+![Mapa de la Unidad 6: paso 3 de 6](imagenes/ud6_mapa_3.png)
+
 Un **aspecto material** es aquel que es lo bastante relevante — para el negocio, para sus grupos de interés, o para ambos — como para merecer una gestión activa y prioritaria dentro del plan. No todos los aspectos ASG posibles son igual de relevantes para todas las organizaciones: una empresa de logística priorizará de forma distinta que una empresa de software.
 
 ### 3.1 Doble materialidad
@@ -70,6 +76,8 @@ Herramienta habitual para visualizar y priorizar: un eje representa la importanc
 ![Matriz de materialidad (doble materialidad)](imagenes/ud6_03_matriz_materialidad.png)
 
 ## 4. Indicadores y medición
+
+![Mapa de la Unidad 6: paso 4 de 6](imagenes/ud6_mapa_4.png)
 
 Un plan de sostenibilidad sin indicadores es una declaración de intenciones, no una herramienta de gestión. Cada aspecto material priorizado necesita al menos un indicador que permita comprobar si se está avanzando.
 
@@ -98,6 +106,8 @@ Los indicadores de un plan de sostenibilidad no se inventan desde cero: conviene
 
 ## 5. Diseño y justificación de acciones de gestión
 
+![Mapa de la Unidad 6: paso 5 de 6](imagenes/ud6_mapa_5.png)
+
 Para cada aspecto material priorizado, el plan debe definir una o varias acciones concretas, con esta estructura mínima:
 
 - **Qué se va a hacer** (la acción en sí).
@@ -109,6 +119,8 @@ Para cada aspecto material priorizado, el plan debe definir una o varias accione
 La justificación de cada acción debe conectar explícitamente con el aspecto material del que parte — una acción sin esa trazabilidad (por qué esta acción, para qué aspecto material, medida cómo) es una buena intención suelta, no parte de un plan.
 
 ## 6. El plan de sostenibilidad aplicado a una infraestructura TIC
+
+![Mapa de la Unidad 6: paso 6 de 6](imagenes/ud6_mapa_6.png)
 
 Todo lo anterior se puede aplicar directamente a una infraestructura de sistemas real — como la que habéis diseñado a lo largo del curso en ASO (servicio de directorio, scripts de automatización, gestión de accesos):
 

@@ -4,6 +4,8 @@
 
 ## 1. De los ODS al desempeño profesional individual
 
+![Mapa de la Unidad 3: paso 1 de 6](assets/img/ud3_mapa_1.png)
+
 En UD1 vimos los ODS como marco internacional (Agenda 2030). En esta unidad bajamos ese marco a la escala del puesto de trabajo: ¿qué significa, en el día a día de un profesional de administración de sistemas, contribuir a esos objetivos?
 
 ![Traducción de los ODS a la práctica profesional TIC](assets/img/ud3_traduccion_ods_practicas_TIC.png)
@@ -11,6 +13,8 @@ En UD1 vimos los ODS como marco internacional (Agenda 2030). En esta unidad baja
 **Idea clave:** un profesional no necesita cambiar de sector para actuar sobre los ODS — la mayoría de sus contribuciones posibles están dentro de las decisiones técnicas cotidianas de su propio puesto.
 
 ## 2. Sostenibilidad en el puesto de trabajo TIC
+
+![Mapa de la Unidad 3: paso 2 de 6](assets/img/ud3_mapa_2.png)
 
 ### 2.1 Green Software y sobriedad digital
 
@@ -35,6 +39,8 @@ La **sobriedad digital** (digital sobriety) es el principio, más amplio, de con
 
 ## 3. Compras sostenibles y TIC responsable
 
+![Mapa de la Unidad 3: paso 3 de 6](assets/img/ud3_mapa_3.png)
+
 Cuando un profesional participa en decisiones de adquisición de hardware, existen criterios y certificaciones que permiten comparar opciones de forma objetiva:
 
 | Etiqueta / certificación | Qué garantiza |
@@ -50,6 +56,8 @@ Un criterio de compra sostenible no se limita al precio de adquisición: incorpo
 
 ## 4. Automatización como práctica profesional sostenible
 
+![Mapa de la Unidad 3: paso 4 de 6](assets/img/ud3_mapa_4.png)
+
 La automatización de infraestructura (herramientas como Ansible, ya trabajadas en ASO) tiene una dimensión de sostenibilidad que a menudo pasa desapercibida:
 
 - **Reduce errores de configuración** que llevan a sistemas mal dimensionados o mal optimizados (y por tanto, a un consumo de recursos mayor del necesario).
@@ -58,6 +66,8 @@ La automatización de infraestructura (herramientas como Ansible, ya trabajadas 
 - **Documenta y versiona la infraestructura** (Infraestructura como Código), lo que facilita auditar qué recursos existen realmente y detectar recursos "huérfanos" que siguen consumiendo sin uso activo.
 
 ## 5. Competencias y certificaciones profesionales en sostenibilidad
+
+![Mapa de la Unidad 3: paso 5 de 6](assets/img/ud3_mapa_5.png)
 
 El perfil de sostenibilidad aplicada a TIC está generando nuevas figuras profesionales y certificaciones:
 
@@ -69,6 +79,8 @@ El perfil de sostenibilidad aplicada a TIC está generando nuevas figuras profes
 Para un profesional de administración de sistemas, no hace falta cambiar de perfil para incorporar esta dimensión: se trata de añadir el criterio de sostenibilidad a las decisiones técnicas que ya se toman de forma habitual (dimensionamiento, virtualización, automatización, elección de proveedores).
 
 ## 6. Sostenibilidad personal: hábitos y huella de carbono individual
+
+![Mapa de la Unidad 3: paso 6 de 6](assets/img/ud3_mapa_6.png)
 
 ![Una persona trabajando en remoto desde su propio espacio](assets/img/ud3_teletrabajo.jpg){ width="360" }
 *Foto: Shixart1985, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), vía [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Attractuve_middle-aged_woman_working_on_laptop_at_home.jpg)*

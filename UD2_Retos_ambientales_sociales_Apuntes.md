@@ -4,6 +4,8 @@
 
 ## 1. Los grandes retos ambientales globales
 
+![Mapa de la Unidad 2: paso 1 de 4](imagenes/ud2_mapa_1.png)
+
 ### 1.1 Cambio climático
 
 El **IPCC** (Panel Intergubernamental sobre el Cambio Climático, ONU) es el organismo científico de referencia mundial. Sus informes de evaluación (el sexto, AR6, publicado en 2021-2023) confirman con un nivel de certeza superior al 95% que el calentamiento global observado desde mediados del siglo XX es de origen humano, principalmente por la emisión de gases de efecto invernadero (CO₂, metano, óxido nitroso) derivados de la quema de combustibles fósiles.
@@ -27,6 +29,8 @@ El **estrés hídrico** se produce cuando la demanda de agua de una región supe
 La Unión Europea mantiene una lista de **materias primas críticas** (litio, cobalto, tierras raras, wolframio, entre otras) — materiales esenciales para la industria (incluida la electrónica) cuyo suministro está concentrado en pocos países y presenta riesgo geopolítico y ambiental en su extracción.
 
 ## 2. Los grandes retos sociales
+
+![Mapa de la Unidad 2: paso 2 de 4](imagenes/ud2_mapa_2.png)
 
 ### 2.1 Desigualdad y pobreza
 
@@ -61,6 +65,8 @@ La fabricación de dispositivos electrónicos depende de cadenas de suministro g
 
 ## 3. Impactos sobre personas y sectores productivos
 
+![Mapa de la Unidad 2: paso 3 de 4](imagenes/ud2_mapa_3.png)
+
 ### 3.1 Riesgo físico vs. riesgo de transición
 
 El marco de referencia más usado para clasificar el riesgo climático empresarial es el del **TCFD** (Task Force on Climate-related Financial Disclosures):
@@ -86,6 +92,8 @@ El marco de referencia más usado para clasificar el riesgo climático empresari
 - **Trabajo remoto y brecha digital:** la posibilidad de trabajar en remoto (gestión de acceso remoto, VPN, escritorios virtuales) reduce el impacto ambiental de los desplazamientos, pero solo beneficia a quien tiene acceso a una conexión y equipo adecuados — puede reducir un reto ambiental mientras amplía uno social si no se gestiona con criterio de inclusión.
 
 ## 4. Estrategias y acciones para minimizar impactos
+
+![Mapa de la Unidad 2: paso 4 de 4](imagenes/ud2_mapa_4.png)
 
 ### 4.1 Mitigación vs. adaptación
 

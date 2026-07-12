@@ -4,6 +4,8 @@
 
 ## 1. De la economía lineal a la economía circular
 
+![Mapa de la Unidad 4: paso 1 de 5](imagenes/ud4_mapa_1.png)
+
 ![Del modelo lineal al modelo circular](imagenes/ud4_01_lineal_vs_circular.png)
 
 ### 1.1 El modelo lineal
@@ -39,12 +41,16 @@ El hardware TIC pertenece siempre al ciclo técnico: el objetivo no es que "vuel
 
 ## 2. Marco normativo y estratégico de la economía circular
 
+![Mapa de la Unidad 4: paso 2 de 5](imagenes/ud4_mapa_2.png)
+
 - **Plan de Acción de la UE para la Economía Circular** (2020) — parte del Pacto Verde Europeo (ver UD1). Establece medidas específicas para productos electrónicos, entre otros sectores prioritarios.
 - **ESPR (Ecodesign for Sustainable Products Regulation)** — Reglamento (UE) 2024/1781, que sustituye y amplía la anterior Directiva de Ecodiseño. Obliga a que los productos que se comercialicen en la UE (incluidos los electrónicos) cumplan requisitos de durabilidad, reparabilidad, reciclabilidad y eficiencia de recursos desde su diseño.
 - **Directiva del Derecho a Reparar** (Right to Repair Directive, (UE) 2024/1799) — obliga a los fabricantes a facilitar la reparación de productos (incluidos electrónicos) dentro y fuera del periodo de garantía, con acceso a piezas de recambio y manuales técnicos.
 - **España Circular 2030** — Estrategia Española de Economía Circular, marco nacional que traslada los objetivos europeos y fija metas de reducción de generación de residuos y aumento de reutilización/reciclaje.
 
 ## 3. Economía circular aplicada al hardware TIC
+
+![Mapa de la Unidad 4: paso 3 de 5](imagenes/ud4_mapa_3.png)
 
 ### 3.1 El ciclo de vida de un dispositivo
 
@@ -74,6 +80,8 @@ El reciclaje de componentes electrónicos permite recuperar metales críticos (o
 
 ## 4. Economía circular aplicada al software y las licencias
 
+![Mapa de la Unidad 4: paso 4 de 5](imagenes/ud4_mapa_4.png)
+
 La economía circular no se limita al hardware: también aplica a cómo se gestionan el software y las licencias.
 
 - **Modelos de licenciamiento:** una licencia perpetua (se paga una vez, se usa indefinidamente) frente a una licencia por suscripción (pago recurrente, acceso mientras se paga) tienen implicaciones distintas en términos de uso eficiente — las suscripciones no usadas o infrautilizadas son un "residuo" económico y de gestión tan real como el hardware sin uso.
@@ -83,6 +91,8 @@ La economía circular no se limita al hardware: también aplica a cómo se gesti
 - **Software libre y de código abierto:** la reutilización de código ya existente (en lugar de programar todo desde cero) es, en esencia, el principio de "reutilizar" aplicado al desarrollo de software.
 
 ## 5. Diseño de productos y servicios TIC responsables
+
+![Mapa de la Unidad 4: paso 5 de 5](imagenes/ud4_mapa_5.png)
 
 RA4 pide explícitamente "proponer productos y servicios responsables" — no solo describir el problema. Algunas estrategias de diseño que ya se aplican en el sector:
 
