@@ -21,6 +21,22 @@
             mask-image: var(--md-admonition-icon--reto);
 }
 
+/* Admonition "tip" (usada para el caso práctico de la UD6): más teal, coherente con la paleta primaria del sitio */
+.md-typeset .tip > .admonition-title,
+.md-typeset .tip > summary {
+    background-color: rgba(0, 137, 123, 0.1);
+}
+
+.md-typeset .tip > .admonition-title::before,
+.md-typeset .tip > summary::before {
+    background-color: rgb(0, 137, 123);
+}
+
+.md-typeset .admonition.tip,
+.md-typeset details.tip {
+    border-color: rgb(0, 137, 123);
+}
+
 /* Título de cada actividad: barra de color a todo el ancho */
 .md-typeset .actividad-titulo {
     display: block;

@@ -5,6 +5,23 @@
 
 ---
 
+!!! tip "Caso práctico: CloudLevante S.L."
+    La empresa **CloudLevante S.L.** quiere renovar su CPD. Tiene:
+
+    - 28 servidores físicos.
+    - Consumo eléctrico elevado.
+    - Equipos con más de ocho años.
+    - Ningún indicador ambiental.
+    - Ningún objetivo de sostenibilidad.
+
+    La dirección quiere elaborar su primer **Plan de Sostenibilidad**.
+
+    ¿Por dónde empezar?
+
+    Eso es precisamente lo que aprenderemos en esta unidad.
+
+---
+
 ## 1. Qué es un plan de sostenibilidad empresarial
 
 ![Mapa de la Unidad 6: paso 1 de 6](imagenes/ud6_mapa_1.png)
@@ -23,6 +40,9 @@ Estructura habitual de un plan de sostenibilidad:
 ![Estructura de un plan de sostenibilidad](imagenes/ud6_01_estructura_plan.png)
 
 Esta estructura sigue una lógica de mejora continua muy similar al ciclo **PDCA** (Plan-Do-Check-Act) de la norma ISO 14001 vista en UD1: planificar (diagnóstico + objetivos), hacer (ejecutar las acciones), verificar (medir con indicadores) y actuar (ajustar el plan según los resultados).
+
+!!! tip "Caso CloudLevante: por dónde empezar"
+    Antes de tocar un solo servidor, la dirección necesita seguir esta misma estructura de seis pasos. Su diagnóstico de partida ya lo tenemos del planteamiento inicial: 28 servidores físicos, consumo eléctrico elevado, equipos con más de ocho años, sin indicadores ni objetivos de sostenibilidad. A partir de aquí, iremos construyendo el resto de su plan — grupos de interés, aspectos materiales, indicadores y acciones — apartado a apartado.
 
 ## 2. Grupos de interés (stakeholders)
 
@@ -56,6 +76,9 @@ Aplicado a una infraestructura TIC: el equipo de administración de sistemas y l
 
 Identificar a los grupos de interés no basta: un plan de sostenibilidad robusto recoge también su opinión, mediante encuestas, entrevistas o paneles de consulta — esto es lo que alimenta, en el siguiente punto, el análisis de materialidad.
 
+!!! tip "Caso CloudLevante: sus grupos de interés"
+    Aplicando la matriz de poder-interés, el equipo de administración de sistemas y la dirección tienen alto poder sobre las decisiones del CPD. Los clientes que dependen de sus servicios tienen alto interés (esperan continuidad y buen servicio) pero poco poder directo sobre cómo se gestiona la infraestructura interna — hay que mantenerlos informados. La comunidad local, afectada por el consumo eléctrico del CPD, y el medio ambiente tienen bajo poder formal, pero un plan serio no puede dejarlos fuera: como mínimo, deben monitorizarse.
+
 ## 3. Análisis de materialidad
 
 ![Mapa de la Unidad 6: paso 3 de 6](imagenes/ud6_mapa_3.png)
@@ -74,6 +97,9 @@ Ya introducida en UD1 a propósito de la CSRD: un aspecto puede ser material des
 Herramienta habitual para visualizar y priorizar: un eje representa la importancia del aspecto para los grupos de interés (recogida mediante las metodologías de consulta del punto 2.3), y el otro eje representa la importancia del aspecto para el negocio (materialidad financiera). Los aspectos que puntúan alto en ambos ejes son los que deben encabezar el plan de sostenibilidad.
 
 ![Matriz de materialidad (doble materialidad)](imagenes/ud6_03_matriz_materialidad.png)
+
+!!! tip "Caso CloudLevante: sus aspectos materiales"
+    De todos los aspectos ASG posibles, dos destacan con doble materialidad alta. El **consumo eléctrico elevado** es material desde ambas perspectivas: afecta a los costes del negocio (materialidad financiera) y genera un impacto ambiental directo (materialidad de impacto). La **obsolescencia del hardware** (equipos con más de ocho años) también lo es: supone un riesgo de continuidad del negocio por fallos o falta de soporte, y genera residuos electrónicos si no se gestiona bien (ver UD4). Estos dos aspectos deberían encabezar el plan de CloudLevante.
 
 ## 4. Indicadores y medición
 
@@ -104,6 +130,9 @@ Un buen indicador de sostenibilidad debería cumplir el criterio **SMART**:
 
 Los indicadores de un plan de sostenibilidad no se inventan desde cero: conviene alinearlos, cuando sea posible, con estándares reconocidos (GRI, o los ESRS de la CSRD vistos en UD1) — esto facilita comparar el desempeño de la organización con el de otras, y prepara el terreno para un reporting formal si la organización llega a estar obligada a él.
 
+!!! tip "Caso CloudLevante: sus indicadores"
+    Para sus dos aspectos materiales prioritarios (punto 3), unos primeros indicadores SMART podrían ser: *"Reducir el consumo eléctrico del CPD un 20% en 12 meses mediante virtualización y consolidación de servidores"* y *"Sustituir el 50% de los servidores con más de ocho años en 18 meses"*. Ambos son específicos, medibles, alcanzables, relevantes para los aspectos identificados y con plazo definido.
+
 ## 5. Diseño y justificación de acciones de gestión
 
 ![Mapa de la Unidad 6: paso 5 de 6](imagenes/ud6_mapa_5.png)
@@ -118,11 +147,17 @@ Para cada aspecto material priorizado, el plan debe definir una o varias accione
 
 La justificación de cada acción debe conectar explícitamente con el aspecto material del que parte — una acción sin esa trazabilidad (por qué esta acción, para qué aspecto material, medida cómo) es una buena intención suelta, no parte de un plan.
 
+!!! tip "Caso CloudLevante: su primera acción"
+    Para el aspecto material "consumo eléctrico elevado", una acción concreta sería *virtualizar y consolidar los 28 servidores físicos* (conecta con Green IT, visto en UD1): responsable, el equipo de administración de sistemas; recursos, el presupuesto de renovación de hardware ya previsto por dirección; plazo, 12 meses; indicador de éxito, el de reducción de consumo eléctrico definido en el punto 4.
+
 ## 6. El plan de sostenibilidad aplicado a una infraestructura TIC
 
 ![Mapa de la Unidad 6: paso 6 de 6](imagenes/ud6_mapa_6.png)
 
-Todo lo anterior se puede aplicar directamente a una infraestructura de sistemas real — como la que habéis diseñado a lo largo del curso en ASO (servicio de directorio, scripts de automatización, gestión de accesos):
+!!! tip "Caso CloudLevante: el plan cerrado"
+    Con esto se cierra su primer Plan de Sostenibilidad. Diagnóstico (28 servidores físicos, consumo eléctrico elevado, equipos obsoletos, sin indicadores previos), grupos de interés priorizados (punto 2), aspectos materiales identificados — consumo eléctrico y obsolescencia del hardware (punto 3) —, indicadores SMART (punto 4) y una primera acción concreta con responsable, recursos, plazo e indicador (punto 5). La dirección ya tiene lo necesario para empezar a ejecutarlo y hacerle seguimiento.
+
+Todo lo anterior se puede aplicar igualmente a una infraestructura de sistemas real — como la que habéis diseñado a lo largo del curso en ASO (servicio de directorio, scripts de automatización, gestión de accesos):
 
 - **Diagnóstico:** ¿qué datos de consumo, uso de recursos o gestión de accesos genera ya esa infraestructura? (mucho de este dato ya lo habéis generado en UD1 y UD3).
 - **Grupos de interés:** ¿quién usa, administra o se ve afectado por esa infraestructura? (usuarios, administradores del sistema, la organización que la financia).
