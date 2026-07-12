@@ -256,13 +256,13 @@ El sector TIC tiene un impacto ambiental propio y creciente, a menudo invisible 
 - **Huella de carbono del software:** código ineficiente, procesos mal optimizados, sobreaprovisionamiento de recursos (servidores infrautilizados) o arquitecturas sobredimensionadas consumen más energía de la necesaria — esto conecta directamente con el trabajo técnico del perfil de administración de sistemas.
 - **E-waste (residuos electrónicos):** según el *Global E-waste Monitor* (Naciones Unidas), es uno de los flujos de residuos de crecimiento más rápido del mundo, con una tasa de reciclaje formal muy inferior al volumen generado. La normativa europea que regula su gestión es la **Directiva WEEE** (Waste Electrical and Electronic Equipment, 2012/19/UE).
 
-**Green IT / Green Computing** — conjunto de prácticas para reducir este impacto:
+**Green IT / Green Computing**
 
-- Virtualización y consolidación de servidores (menos hardware físico para la misma capacidad de cómputo).
-- Hardware de mayor eficiencia energética y mayor vida útil.
-- Optimización del software y los procesos (menos ciclos de CPU desperdiciados).
-- Sistemas de refrigeración eficiente en centros de datos (free cooling, ubicación en climas fríos).
-- Alimentación de la infraestructura con energía renovable.
+**Green IT (o informática sostenible)** es el conjunto de estrategias y buenas prácticas que buscan reducir el impacto ambiental de las infraestructuras TIC durante todo su ciclo de vida: desde el diseño y la adquisición del hardware hasta su uso, mantenimiento y reciclaje. Su objetivo es mejorar la eficiencia energética, reducir las emisiones y prolongar la vida útil de los equipos sin comprometer la calidad del servicio.
+
+Aplicado al perfil de administración de sistemas y redes, Green IT se traduce en:
+
+![Tabla de buenas prácticas Green IT aplicadas a ASIR](assets/img/ud1_tabla_green_it.png)
 
 ---
 
