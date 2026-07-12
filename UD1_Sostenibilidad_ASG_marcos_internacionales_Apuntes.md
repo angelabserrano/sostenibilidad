@@ -23,14 +23,14 @@ En esta unidad descubrirás por qué.
 
 **¿Qué es la sostenibilidad?**
 
-La sostenibilidad es la capacidad de un sistema — económico, social o ambiental — de mantenerse en el tiempo sin agotar los recursos ni degradar las condiciones de las que depende para seguir existiendo. Aplicada a una organización, significa generar valor de forma que eso no comprometa su propia capacidad de seguir generándolo en el futuro, ni la de las personas, comunidades o ecosistemas de los que depende.
+La **sostenibilidad** es la capacidad de satisfacer las necesidades del presente sin comprometer las de las generaciones futuras. Para ello, busca un equilibrio entre el crecimiento económico, el bienestar social y la protección del medio ambiente, garantizando un desarrollo que pueda mantenerse en el tiempo.
 
-En términos más concretos, la sostenibilidad busca:
+En términos prácticos, la sostenibilidad implica:
 
-- Aumentar el bienestar de las personas en el presente.
-- Sin comprometer el bienestar de las generaciones futuras.
-- Una mejora continua de la calidad de vida colectiva, no un estado fijo ya alcanzado.
-- El equilibrio entre crecimiento económico, respeto ambiental y bienestar social — la misma idea que retomaremos como Triple Bottom Line en el punto 2.
+- **Mejorar la calidad de vida** de las personas.
+- **Proteger el medio ambiente** y utilizar los recursos de forma responsable.
+- **Impulsar un desarrollo económico** viable y sostenible.
+- **Equilibrar** las dimensiones económica, social y ambiental, como veremos en el siguiente apartado con el **Triple Bottom Line**.
 
 El concepto de sostenibilidad no nace de golpe en un único documento: es el resultado de varias décadas de debate internacional sobre los límites del crecimiento económico.
 
