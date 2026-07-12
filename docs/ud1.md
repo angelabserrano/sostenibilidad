@@ -5,13 +5,15 @@
 
 **💡 Antes de empezar...**
 
-Cada vez que ves una serie, consultas una IA o guardas un archivo en la nube, miles de servidores trabajan para que todo funcione.
+**¿Qué tienen en común ver una serie en streaming, guardar un archivo en la nube o hacer una consulta a una IA?**
 
-Como administrador de sistemas, serás responsable de esa infraestructura.
+Aunque no lo veamos, todas estas acciones utilizan centros de datos, servidores y redes que consumen energía las 24 horas del día.
 
-La forma en que configures los servidores, gestiones el almacenamiento o renueves el hardware tendrá un impacto económico, social y ambiental.
+Como futuro **administrador de sistemas y redes**, tú serás quien configure y gestione esa infraestructura. Tus decisiones influirán en el consumo energético, la vida útil del hardware y la eficiencia de los sistemas.
 
-Eso también es **sostenibilidad**.
+**La sostenibilidad también forma parte de tu trabajo.**
+
+En esta unidad descubrirás por qué.
 
 ---
 
