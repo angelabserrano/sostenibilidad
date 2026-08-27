@@ -1,5 +1,9 @@
 # UD3 — Los ODS en el desempeño profesional
 
+!!! abstract "Resultado de aprendizaje"
+
+    Esta unidad desarrolla el **RA3** del módulo 1708: *«Establece la aplicación de criterios de sostenibilidad en el desempeño profesional y personal, identificando los elementos necesarios.»*
+
 ---
 
 ## 1. De los ODS al desempeño profesional individual

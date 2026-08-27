@@ -1,5 +1,9 @@
 # UD2 — Retos ambientales y sociales
 
+!!! abstract "Resultado de aprendizaje"
+
+    Esta unidad desarrolla el **RA2** del módulo 1708: *«Caracteriza los retos ambientales y sociales a los que se enfrenta la sociedad, describiendo los impactos sobre las personas y los sectores productivos y proponiendo acciones para minimizarlos.»*
+
 ---
 
 ## 1. Los grandes retos ambientales globales

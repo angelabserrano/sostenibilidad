@@ -1,5 +1,9 @@
 # UD4 — Economía circular
 
+!!! abstract "Resultado de aprendizaje"
+
+    Esta unidad desarrolla el **RA4** del módulo 1708: *«Propone productos y servicios responsables teniendo en cuenta los principios de la economía circular.»*
+
 ---
 
 ## 1. De la economía lineal a la economía circular

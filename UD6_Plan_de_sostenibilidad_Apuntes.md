@@ -3,6 +3,10 @@
 ![Reunión de trabajo en torno a una mesa](imagenes/ud6_reunion.jpg)
 *Foto: Luis Argerich, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), vía [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Meeting_room,_table_and_paper_board.jpg)*
 
+!!! abstract "Resultado de aprendizaje"
+
+    Esta unidad desarrolla el **RA6** del módulo 1708: *«Analiza un plan de sostenibilidad de una empresa del sector, identificando sus grupos de interés, los aspectos ASG materiales y justificando acciones para su gestión y medición.»*
+
 ---
 
 !!! tip "Caso práctico: CloudLevante S.L."

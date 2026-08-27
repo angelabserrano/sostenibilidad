@@ -3,6 +3,10 @@
 ![Sala de servidores de un centro de datos, iluminación LED azul](assets/img/ud1_00_portada_datacenter.jpg)
 *Foto: BalticServers.com, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), vía [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg)*
 
+!!! abstract "Resultado de aprendizaje"
+
+    Esta unidad desarrolla el **RA1** del módulo 1708: *«Identifica los aspectos ambientales, sociales y de gobernanza (ASG) relativos a la sostenibilidad teniendo en cuenta el concepto de desarrollo sostenible y los marcos internacionales que contribuyen a su consecución.»*
+
 **💡 Antes de empezar...**
 
 **¿Qué tienen en común ver una serie en streaming, guardar un archivo en la nube o hacer una consulta a una IA?**

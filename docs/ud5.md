@@ -1,6 +1,8 @@
 # UD5 — Actividades sostenibles
 
-**RA5 · 13h · Formación en empresa**
+!!! abstract "Resultado de aprendizaje"
+
+    Esta unidad desarrolla el **RA5** del módulo 1708: *«Realiza actividades sostenibles minimizando el impacto de las mismas en el medio ambiente.»*
 
 ---
 
