@@ -10,11 +10,11 @@ hide:
 Estas unidades didácticas acompañan, semana a semana, a los contenidos técnicos de ASO: cada UD mira la misma infraestructura desde la perspectiva de la sostenibilidad (ambiental, social y de gobernanza).
 
 - [UD1. Sostenibilidad, ASG y marcos internacionales](ud1.md)
-- [UD2. Retos ambientales y sociales](ud2.md)
-- [UD3. Los ODS en el desempeño profesional](ud3.md)
-- [UD4. Economía circular](ud4.md)
-- [UD5. Actividades sostenibles (Formación en empresa)](ud5.md)
-- [UD6. El plan de sostenibilidad](ud6.md)
+- [UD2. Retos ambientales y sociales](ud2.md) <span class="badge-proximamente">Próximamente</span>
+- [UD3. Los ODS en el desempeño profesional](ud3.md) <span class="badge-proximamente">Próximamente</span>
+- [UD4. Economía circular](ud4.md) <span class="badge-proximamente">Próximamente</span>
+- [UD5. Actividades sostenibles (Formación en empresa)](ud5.md) <span class="badge-proximamente">Próximamente</span>
+- [UD6. El plan de sostenibilidad](ud6.md) <span class="badge-proximamente">Próximamente</span>
 
 ## Resultados de aprendizaje
 

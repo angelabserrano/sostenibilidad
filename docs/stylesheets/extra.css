@@ -50,3 +50,34 @@
 .md-typeset .actividad-titulo strong {
     color: inherit;
 }
+
+/* En las páginas de unidad, el menú de la izquierda muestra solo el índice
+   de la unidad actual (su tabla de contenidos integrada), no el resto de unidades. */
+.md-sidebar--primary .md-nav--primary > .md-nav__list > .md-nav__item:not(.md-nav__item--active) {
+    display: none;
+}
+
+/* Enlace "Volver al índice" al inicio de cada unidad */
+.md-typeset .volver-indice {
+    display: inline-block;
+    margin-bottom: 1em;
+    font-size: 0.85em;
+    font-weight: 600;
+}
+
+/* Etiqueta "PRÓXIMAMENTE" en la lista de unidades de la portada */
+.md-typeset .badge-proximamente {
+    display: inline-block;
+    text-transform: uppercase;
+    font-size: 0.7em;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    line-height: 1;
+    padding: 0.35em 0.6em;
+    margin-left: 0.5em;
+    vertical-align: 0.12em;
+    color: var(--md-primary-fg-color);
+    background-color: rgba(0, 137, 123, 0.12);
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.18);
+}
