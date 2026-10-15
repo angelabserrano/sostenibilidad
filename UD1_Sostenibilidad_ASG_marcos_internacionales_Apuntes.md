@@ -339,13 +339,7 @@ Este es el listado desordenado de medidas y marcos concretos:
 
 Ordenad las 7 primeras medidas según su nivel (tratado internacional → política regional → ley nacional → plan/estrategia nacional) y explicad la relación de dependencia entre ellas. Las 2 últimas (ODS 13 y las 5P) no encajan en esa cadena: explicad por qué pertenecen a un marco distinto (Agenda 2030) y no son una traducción normativa del Acuerdo de París.
 
-<div class="actividad-titulo"><strong>Actividad 2bis — El DAFO de la sostenibilidad, ¿sigue vigente? (debate)</strong></div>
-Consultad el DAFO (Debilidades, Amenazas, Fortalezas, Oportunidades) que el Pacto Mundial de las Naciones Unidas elaboró en 2017 sobre la implantación de los ODS en España, dentro del informe *"ODS, año 2: Análisis, tendencias y liderazgo empresarial en España"* ([PDF](https://www.pactomundial.org/wp-content/uploads/2017/09/web_GUIA-ODS2_2017-v6.pdf)). En grupo, debatid: ¿qué puntos de ese DAFO siguen vigentes hoy? ¿Qué debilidades, amenazas, fortalezas u oportunidades añadiríais o eliminaríais a la luz de lo visto en esta unidad (marcos normativos, CSRD, Pacto Verde Europeo)?
-
-<div class="actividad-titulo"><strong>Actividad 3 — Del dato técnico al marco ASG.</strong></div>
-Trae contigo un script sencillo que capture el consumo de CPU/RAM de un proceso (`top`, `ps`, `free`, `uptime` — el mismo que estás usando en ASO). Con ese dato, redacta un informe breve explicando qué dimensión ASG afecta un proceso que consume recursos de forma ineficiente, relacionándolo con el concepto de huella de carbono del software y las prácticas de Green IT (punto 9), y con al menos un indicador ambiental de la tabla del punto 8. Explica también por qué este caso no es lo mismo que el PUE: el PUE mide la eficiencia energética del centro de datos en su conjunto (instalación + refrigeración), no la eficiencia del código en sí.
-
-<div class="actividad-titulo"><strong>Actividad 4 — Identifica el marco (autoevaluación rápida).</strong></div>
+<div class="actividad-titulo"><strong>Actividad 3 — Identifica el marco (autoevaluación rápida).</strong></div>
 En grupo, sin mirar todavía el punto 6 de estos apuntes, leed cada uno de estos 5 fragmentos breves (inspirados en cómo una empresa describiría su propia práctica de sostenibilidad) e identificad a qué marco o certificación corresponde (CSRD, ISO 14001, GRI, Pacto Mundial, ISO 26000), justificando la elección en una frase. Comprobad después vuestra respuesta con el punto 6:
 
 1. *"La compañía publica anualmente un informe auditado externamente que cuantifica tanto el impacto de sus operaciones sobre el clima como el impacto del cambio climático sobre sus resultados financieros."*
@@ -356,5 +350,29 @@ En grupo, sin mirar todavía el punto 6 de estos apuntes, leed cada uno de estos
 
 **Bonus (si sobra tiempo):** *"La empresa ha emitido deuda destinada específicamente a financiar proyectos de eficiencia energética y energías renovables."* — ¿qué instrumento de ISR describe este fragmento? Comprobad la respuesta con el punto 7.
 
-<div class="actividad-titulo"><strong>Actividad 5 — Panel de indicadores (cierre de unidad).</strong></div>
-En grupo, diseñad un panel de indicadores (en una tabla o spreadsheet) que recoja los datos generados por vuestros propios scripts y tareas programadas (`cron`) de ASO. Clasificad cada indicador por dimensión ASG y por categoría (ambiental/social/institucional, punto 8) — por ejemplo: consumo energético de un proceso → Ambiental; gestión de accesos y permisos de usuarios → Gobernanza/Institucional.
+<div class="actividad-titulo"><strong>Actividad 4 — Del dato técnico al marco ASG.</strong></div>
+Trae contigo un script sencillo que capture el consumo de CPU/RAM de un proceso (`top`, `ps`, `free`, `uptime` — el mismo que estás usando en ASO). Con ese dato, redacta un informe breve explicando qué dimensión ASG afecta un proceso que consume recursos de forma ineficiente, relacionándolo con el concepto de huella de carbono del software y las prácticas de Green IT (punto 9), y con al menos un indicador ambiental de la tabla del punto 8. Explica también por qué este caso no es lo mismo que el PUE: el PUE mide la eficiencia energética del centro de datos en su conjunto (instalación + refrigeración), no la eficiencia del código en sí.
+
+<div class="actividad-titulo"><strong>Actividad 5 — PUE y emisiones de dos centros de datos.</strong></div>
+Una empresa tiene su carga informática en una sala de servidores propia (CPD A) y estudia moverla a un centro de datos moderno (CPD B). La carga IT es la misma en los dos casos:
+
+| | Energía total anual | Energía del equipamiento IT |
+|---|---|---|
+| CPD A — sala propia con refrigeración antigua | 315.360 kWh | 175.200 kWh |
+| CPD B — centro de datos moderno | 210.240 kWh | 175.200 kWh |
+
+De forma individual, con la fórmula del PUE del punto 9:
+
+1. Calcula el PUE de cada centro e interprétalo: ¿cuánta energía se va en refrigeración, iluminación y pérdidas eléctricas en cada uno?
+2. Busca el factor de emisión del mix eléctrico peninsular del último año disponible (Red Eléctrica, *REData*, o la calculadora de huella de carbono del MITECO), indicando fuente y año, y calcula las emisiones anuales de CO₂ de cada centro.
+3. En el CPD A se plantean dos mejoras: (a) virtualizar y consolidar servidores, reduciendo la energía IT un 30% sin tocar la refrigeración; (b) reorganizar la sala en pasillos fríos y calientes y renovar la climatización, bajando el PUE a 1,4 sin tocar los servidores. Calcula el ahorro anual en kWh de cada opción (supón que en la opción (a) el PUE se mantiene en 1,8) y de aplicar las dos a la vez. ¿Cuál priorizarías?
+4. En la práctica, tras consolidar servidores el PUE de una sala suele *empeorar* aunque se consuma menos energía. Explica por qué, y qué limitación tiene entonces el PUE como único indicador.
+5. Redacta un KPI para este CPD siguiendo el punto 8 (qué se mide, meta y plazo).
+6. La consolidación deja varios servidores sin uso. Indica qué normativa regula su retirada (punto 9) y un riesgo de gobernanza que hay que controlar antes de entregarlos a un gestor autorizado.
+
+<div class="actividad-titulo"><strong>Actividad 6 — Panel de indicadores (cierre de unidad).</strong></div>
+En grupo, diseñad un panel de indicadores (en una tabla o spreadsheet) que recoja los datos que habéis generado en las actividades 4 y 5 y, si ya lo habéis visto en ASO, los de vuestras tareas programadas con `cron`. Para cada indicador indicad su dimensión ASG y, cuando encaje, su categoría del punto 8 (ambiental, social o institucional). Por ejemplo:
+
+- Consumo energético de un proceso o PUE de la sala → Ambiental (categoría ambiental).
+- Horas de formación del equipo técnico → Social (categoría social).
+- Porcentaje de cuentas de usuario con permisos revisados en el último trimestre → Gobernanza. Fijaos en que no encaja en la categoría *institucional* del punto 8, que recoge indicadores económico-financieros: indicad estos casos en el panel.
