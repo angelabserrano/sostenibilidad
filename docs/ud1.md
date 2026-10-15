@@ -326,7 +326,14 @@ Empresa: **Apple** — [Environmental Progress Report 2025](https://www.apple.co
 
 </details>
 
-<div class="actividad-titulo"><strong>Actividad 2 — Jerarquía de marcos internacionales.</strong></div>
+<div class="actividad-titulo"><strong>Actividad 2 — Los 17 ODS en las 5P.</strong></div>
+En parejas, con la imagen de los 17 ODS y la descripción de las 5P del punto 5.1:
+
+1. Clasificad cada uno de los 17 ODS en una de las 5P (Personas, Planeta, Prosperidad, Paz, Participación), justificando cada caso en una frase.
+2. Señalad los ODS que podrían ir en más de una P (por ejemplo, ¿el ODS 6 —agua— es de Personas o de Planeta?) y argumentad vuestra elección.
+3. Localizad en qué P caen los cuatro ODS destacados para el perfil ASIR (7, 9, 12 y 13). ¿Puede un administrador de sistemas contribuir también a *Personas* o a *Paz*? Poned un ejemplo de cada una.
+
+<div class="actividad-titulo"><strong>Actividad 3 — Jerarquía de marcos internacionales.</strong></div>
 Este es el listado desordenado de medidas y marcos concretos:
 
 - Limitar el aumento de la temperatura media global muy por debajo de 2°C respecto a niveles preindustriales, intentando no superar 1,5°C.
@@ -341,7 +348,7 @@ Este es el listado desordenado de medidas y marcos concretos:
 
 Ordenad las 7 primeras medidas según su nivel (tratado internacional → política regional → ley nacional → plan/estrategia nacional) y explicad la relación de dependencia entre ellas. Las 2 últimas (ODS 13 y las 5P) no encajan en esa cadena: explicad por qué pertenecen a un marco distinto (Agenda 2030) y no son una traducción normativa del Acuerdo de París.
 
-<div class="actividad-titulo"><strong>Actividad 3 — Identifica el marco (autoevaluación rápida).</strong></div>
+<div class="actividad-titulo"><strong>Actividad 4 — Identifica el marco (autoevaluación rápida).</strong></div>
 En grupo, sin mirar todavía el punto 6 de estos apuntes, leed cada uno de estos 5 fragmentos breves (inspirados en cómo una empresa describiría su propia práctica de sostenibilidad) e identificad a qué marco o certificación corresponde (CSRD, ISO 14001, GRI, Pacto Mundial, ISO 26000), justificando la elección en una frase. Comprobad después vuestra respuesta con el punto 6:
 
 1. *"La compañía publica anualmente un informe auditado externamente que cuantifica tanto el impacto de sus operaciones sobre el clima como el impacto del cambio climático sobre sus resultados financieros."*
@@ -352,10 +359,10 @@ En grupo, sin mirar todavía el punto 6 de estos apuntes, leed cada uno de estos
 
 **Bonus (si sobra tiempo):** *"La empresa ha emitido deuda destinada específicamente a financiar proyectos de eficiencia energética y energías renovables."* — ¿qué instrumento de ISR describe este fragmento? Comprobad la respuesta con el punto 7.
 
-<div class="actividad-titulo"><strong>Actividad 4 — Del dato técnico al marco ASG.</strong></div>
+<div class="actividad-titulo"><strong>Actividad 5 — Del dato técnico al marco ASG.</strong></div>
 Trae contigo un script sencillo que capture el consumo de CPU/RAM de un proceso (`top`, `ps`, `free`, `uptime` — el mismo que estás usando en ASO). Con ese dato, redacta un informe breve explicando qué dimensión ASG afecta un proceso que consume recursos de forma ineficiente, relacionándolo con el concepto de huella de carbono del software y las prácticas de Green IT (punto 9), y con al menos un indicador ambiental de la tabla del punto 8. Explica también por qué este caso no es lo mismo que el PUE: el PUE mide la eficiencia energética del centro de datos en su conjunto (instalación + refrigeración), no la eficiencia del código en sí.
 
-<div class="actividad-titulo"><strong>Actividad 5 — PUE y emisiones de dos centros de datos.</strong></div>
+<div class="actividad-titulo"><strong>Actividad 6 — PUE y emisiones de dos centros de datos.</strong></div>
 Una empresa tiene su carga informática en una sala de servidores propia (CPD A) y estudia moverla a un centro de datos moderno (CPD B). La carga IT es la misma en los dos casos:
 
 | | Energía total anual | Energía del equipamiento IT |
@@ -372,8 +379,8 @@ De forma individual, con la fórmula del PUE del punto 9:
 5. Redacta un KPI para este CPD siguiendo el punto 8 (qué se mide, meta y plazo).
 6. La consolidación deja varios servidores sin uso. Indica qué normativa regula su retirada (punto 9) y un riesgo de gobernanza que hay que controlar antes de entregarlos a un gestor autorizado.
 
-<div class="actividad-titulo"><strong>Actividad 6 — Panel de indicadores (cierre de unidad).</strong></div>
-En grupo, diseñad un panel de indicadores (en una tabla o spreadsheet) que recoja los datos que habéis generado en las actividades 4 y 5 y, si ya lo habéis visto en ASO, los de vuestras tareas programadas con `cron`. Para cada indicador indicad su dimensión ASG y, cuando encaje, su categoría del punto 8 (ambiental, social o institucional). Por ejemplo:
+<div class="actividad-titulo"><strong>Actividad 7 — Panel de indicadores (cierre de unidad).</strong></div>
+En grupo, diseñad un panel de indicadores (en una tabla o spreadsheet) que recoja los datos que habéis generado en las actividades 5 y 6 y, si ya lo habéis visto en ASO, los de vuestras tareas programadas con `cron`. Para cada indicador indicad su dimensión ASG y, cuando encaje, su categoría del punto 8 (ambiental, social o institucional). Por ejemplo:
 
 - Consumo energético de un proceso o PUE de la sala → Ambiental (categoría ambiental).
 - Horas de formación del equipo técnico → Social (categoría social).
