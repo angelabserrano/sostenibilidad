@@ -346,21 +346,7 @@ Este es el listado desordenado de medidas y marcos concretos:
 
 Ordenad las 7 primeras medidas según su nivel (tratado internacional → política regional → ley nacional → plan/estrategia nacional) y explicad la relación de dependencia entre ellas. Las 2 últimas (ODS 13 y las 5P) no encajan en esa cadena: explicad por qué pertenecen a un marco distinto (Agenda 2030) y no son una traducción normativa del Acuerdo de París.
 
-<div class="actividad-titulo"><strong>Actividad 4 — Identifica el marco (autoevaluación rápida).</strong></div>
-En grupo, sin mirar todavía el punto 6 de estos apuntes, leed cada uno de estos 5 fragmentos breves (inspirados en cómo una empresa describiría su propia práctica de sostenibilidad) e identificad a qué marco o certificación corresponde (CSRD, ISO 14001, GRI, Pacto Mundial, ISO 26000), justificando la elección en una frase. Comprobad después vuestra respuesta con el punto 6:
-
-1. *"La compañía publica anualmente un informe auditado externamente que cuantifica tanto el impacto de sus operaciones sobre el clima como el impacto del cambio climático sobre sus resultados financieros."*
-2. *"La empresa cuenta con un sistema de gestión ambiental certificado, verificado mediante auditorías externas periódicas, que sigue un ciclo de planificación, ejecución, verificación y ajuste continuo."*
-3. *"Los indicadores de emisiones, uso de agua y diversidad de la plantilla se reportan siguiendo los estándares de sostenibilidad corporativa más usados a nivel mundial antes de la normativa europea actual."*
-4. *"La organización se ha adherido voluntariamente a diez principios universales sobre derechos humanos, condiciones laborales, medio ambiente y lucha contra la corrupción."*
-5. *"La empresa dispone de una guía interna de responsabilidad social, no certificable, que orienta sus decisiones en materia de derechos humanos, prácticas laborales justas y participación en la comunidad."*
-
-**Bonus (si sobra tiempo):** *"La empresa ha emitido deuda destinada específicamente a financiar proyectos de eficiencia energética y energías renovables."* — ¿qué instrumento de ISR describe este fragmento? Comprobad la respuesta con el punto 7.
-
-<div class="actividad-titulo"><strong>Actividad 5 — Del dato técnico al marco ASG.</strong></div>
-Trae contigo un script sencillo que capture el consumo de CPU/RAM de un proceso (`top`, `ps`, `free`, `uptime` — el mismo que estás usando en ASO). Con ese dato, redacta un informe breve explicando qué dimensión ASG afecta un proceso que consume recursos de forma ineficiente, relacionándolo con el concepto de huella de carbono del software y las prácticas de Green IT (punto 9), y con al menos un indicador ambiental de la tabla del punto 8. Explica también por qué este caso no es lo mismo que el PUE: el PUE mide la eficiencia energética del centro de datos en su conjunto (instalación + refrigeración), no la eficiencia del código en sí.
-
-<div class="actividad-titulo"><strong>Actividad 6 — PUE y emisiones de dos centros de datos.</strong></div>
+<div class="actividad-titulo"><strong>Actividad 4 — PUE y emisiones de dos centros de datos.</strong></div>
 Una empresa tiene su carga informática en una sala de servidores propia (CPD A) y estudia moverla a un centro de datos moderno (CPD B). La carga IT es la misma en los dos casos:
 
 | | Energía total anual | Energía del equipamiento IT |
@@ -377,8 +363,8 @@ De forma individual, con la fórmula del PUE del punto 9:
 5. Redacta un KPI para este CPD siguiendo el punto 8 (qué se mide, meta y plazo).
 6. La consolidación deja varios servidores sin uso. Indica qué normativa regula su retirada (punto 9) y un riesgo de gobernanza que hay que controlar antes de entregarlos a un gestor autorizado.
 
-<div class="actividad-titulo"><strong>Actividad 7 — Panel de indicadores (cierre de unidad).</strong></div>
-En grupo, diseñad un panel de indicadores (en una tabla o spreadsheet) que recoja los datos que habéis generado en las actividades 5 y 6 y, si ya lo habéis visto en ASO, los de vuestras tareas programadas con `cron`. Para cada indicador indicad su dimensión ASG y, cuando encaje, su categoría del punto 8 (ambiental, social o institucional). Por ejemplo:
+<div class="actividad-titulo"><strong>Actividad 5 — Panel de indicadores (cierre de unidad).</strong></div>
+En grupo, diseñad un panel de indicadores (en una tabla o spreadsheet) que recoja los datos que habéis obtenido en la actividad 4 y, si ya lo habéis visto en ASO, los de vuestros scripts y tareas programadas con `cron`. Para cada indicador indicad su dimensión ASG y, cuando encaje, su categoría del punto 8 (ambiental, social o institucional). Por ejemplo:
 
 - Consumo energético de un proceso o PUE de la sala → Ambiental (categoría ambiental).
 - Horas de formación del equipo técnico → Social (categoría social).
