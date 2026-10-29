@@ -348,7 +348,15 @@ Este es el listado desordenado de medidas y marcos concretos:
 
 Ordenad las 7 primeras medidas según su nivel (tratado internacional → política regional → ley nacional → plan/estrategia nacional) y explicad la relación de dependencia entre ellas. Las 2 últimas (ODS 13 y las 5P) no encajan en esa cadena: explicad por qué pertenecen a un marco distinto (Agenda 2030) y no son una traducción normativa del Acuerdo de París.
 
-<div class="actividad-titulo"><strong>Actividad 4 — Mi empresa TIC puede ser sostenible (cierre de unidad).</strong></div>
+---
+
+## Prueba de evaluación
+
+!!! note "Prueba evaluable del RA1"
+
+    Esta prueba sirve para evaluar la unidad. A diferencia de las actividades anteriores, que son de práctica, su calificación cuenta para la nota del **RA1**.
+
+<div class="prueba-titulo"><strong>Mi empresa TIC puede ser sostenible.</strong></div>
 En equipos de 2 o 3 personas, elegid una empresa TIC: puede ser real (una consultora, un proveedor de hosting o de servicios gestionados de vuestra zona) o inventada, describiendo en un párrafo a qué se dedica, cuántas personas trabajan en ella y qué infraestructura gestiona. Con lo visto en la unidad, responded a estas cuestiones aplicadas a vuestra empresa:
 
 1. **Ambiental.** Proponed tres medidas concretas de Green IT para su infraestructura (punto 9) e indicad a qué ODS y a cuál de las 5P contribuye cada una.
@@ -360,3 +368,17 @@ En equipos de 2 o 3 personas, elegid una empresa TIC: puede ser real (una consul
 7. **Métricas.** Definid tres indicadores para medir el avance de vuestras medidas (punto 8), al menos uno de cada dimensión ASG, y relacionad cada uno con un ODS.
 
 Presentad el resultado al resto de la clase en una exposición breve (5-7 minutos), apoyada en una presentación o una infografía.
+
+**Qué se entrega:** un documento con las respuestas a las siete cuestiones y la presentación o infografía de la exposición.
+
+**Criterios de calificación:**
+
+| Criterio | Cuestiones | Peso |
+|---|---|---|
+| Medidas ambientales y Green IT, relacionadas con los ODS y las 5P | 1 | 15 % |
+| Marcos internacionales aplicados a la empresa | 2 | 15 % |
+| Empresa de referencia real, con ODS y acciones identificados | 3 | 10 % |
+| Medidas sociales y conflicto entre grupos de interés | 4 y 5 | 20 % |
+| Gobernanza (CSRD) e inversión socialmente responsable | 6 | 15 % |
+| Indicadores de las tres dimensiones ASG, relacionados con los ODS | 7 | 10 % |
+| Exposición: claridad, ajuste al tiempo y respuesta a preguntas | — | 15 % |

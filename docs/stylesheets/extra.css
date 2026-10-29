@@ -51,6 +51,20 @@
     color: inherit;
 }
 
+/* Título de la prueba de evaluación: mismo formato, otro color para distinguirla */
+.md-typeset .prueba-titulo {
+    display: block;
+    background-color: #b45309;
+    color: #ffffff;
+    padding: 0.5em 0.9em;
+    border-radius: 4px;
+    margin: 1.4em 0 0.6em 0;
+}
+
+.md-typeset .prueba-titulo strong {
+    color: inherit;
+}
+
 /* En las páginas de unidad, el menú de la izquierda muestra solo el índice
    de la unidad actual (su tabla de contenidos integrada), no el resto de unidades. */
 .md-sidebar--primary .md-nav--primary > .md-nav__list > .md-nav__item:not(.md-nav__item--active) {
