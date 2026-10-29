@@ -346,40 +346,15 @@ Este es el listado desordenado de medidas y marcos concretos:
 
 Ordenad las 7 primeras medidas según su nivel (tratado internacional → política regional → ley nacional → plan/estrategia nacional) y explicad la relación de dependencia entre ellas. Las 2 últimas (ODS 13 y las 5P) no encajan en esa cadena: explicad por qué pertenecen a un marco distinto (Agenda 2030) y no son una traducción normativa del Acuerdo de París.
 
-<div class="actividad-titulo"><strong>Actividad 4 — Identifica el marco (autoevaluación rápida).</strong></div>
-En grupo, sin mirar todavía el punto 6 de estos apuntes, leed cada uno de estos 5 fragmentos breves (inspirados en cómo una empresa describiría su propia práctica de sostenibilidad) e identificad a qué marco o certificación corresponde (CSRD, ISO 14001, GRI, Pacto Mundial, ISO 26000), justificando la elección en una frase. Comprobad después vuestra respuesta con el punto 6:
+<div class="actividad-titulo"><strong>Actividad 4 — Mi empresa TIC puede ser sostenible (cierre de unidad).</strong></div>
+En equipos de 2 o 3 personas, elegid una empresa TIC: puede ser real (una consultora, un proveedor de hosting o de servicios gestionados de vuestra zona) o inventada, describiendo en un párrafo a qué se dedica, cuántas personas trabajan en ella y qué infraestructura gestiona. Con lo visto en la unidad, responded a estas cuestiones aplicadas a vuestra empresa:
 
-1. *"La compañía publica anualmente un informe auditado externamente que cuantifica tanto el impacto de sus operaciones sobre el clima como el impacto del cambio climático sobre sus resultados financieros."*
-2. *"La empresa cuenta con un sistema de gestión ambiental certificado, verificado mediante auditorías externas periódicas, que sigue un ciclo de planificación, ejecución, verificación y ajuste continuo."*
-3. *"Los indicadores de emisiones, uso de agua y diversidad de la plantilla se reportan siguiendo los estándares de sostenibilidad corporativa más usados a nivel mundial antes de la normativa europea actual."*
-4. *"La organización se ha adherido voluntariamente a diez principios universales sobre derechos humanos, condiciones laborales, medio ambiente y lucha contra la corrupción."*
-5. *"La empresa dispone de una guía interna de responsabilidad social, no certificable, que orienta sus decisiones en materia de derechos humanos, prácticas laborales justas y participación en la comunidad."*
+1. **Ambiental.** Proponed tres medidas concretas de Green IT para su infraestructura (punto 9) e indicad a qué ODS y a cuál de las 5P contribuye cada una.
+2. **Marcos internacionales.** ¿Qué compromiso del Acuerdo de París, del Pacto Verde Europeo o de la Ley 7/2021 afecta a la empresa, y cómo puede contribuir a cumplirlo (punto 5)?
+3. **Un referente real.** Buscad una empresa TIC española o valenciana, distinta de las de la actividad 1, que incorpore los ODS en su estrategia o en su informe de sostenibilidad. ¿Qué ODS prioriza y con qué acciones?
+4. **Social.** Proponed dos medidas sociales para la plantilla o para la comunidad (igualdad, conciliación, accesibilidad, inclusión de colectivos vulnerables...) y relacionadlas con los criterios ASG del punto 3.
+5. **Grupos de interés.** Plantead un objetivo de los empleados que choque con el de los accionistas o inversores (punto 4) y una forma de conciliar ambos intereses.
+6. **Gobernanza e ISR.** ¿Estaría obligada vuestra empresa a publicar un informe de sostenibilidad según la CSRD (punto 6)? ¿Qué vía de inversión socialmente responsable (punto 7) usaríais para financiar una de las medidas de la cuestión 1?
+7. **Métricas.** Definid tres indicadores para medir el avance de vuestras medidas (punto 8), al menos uno de cada dimensión ASG, y relacionad cada uno con un ODS.
 
-**Bonus (si sobra tiempo):** *"La empresa ha emitido deuda destinada específicamente a financiar proyectos de eficiencia energética y energías renovables."* — ¿qué instrumento de ISR describe este fragmento? Comprobad la respuesta con el punto 7.
-
-<div class="actividad-titulo"><strong>Actividad 5 — Del dato técnico al marco ASG.</strong></div>
-Trae contigo un script sencillo que capture el consumo de CPU/RAM de un proceso (`top`, `ps`, `free`, `uptime` — el mismo que estás usando en ASO). Con ese dato, redacta un informe breve explicando qué dimensión ASG afecta un proceso que consume recursos de forma ineficiente, relacionándolo con el concepto de huella de carbono del software y las prácticas de Green IT (punto 9), y con al menos un indicador ambiental de la tabla del punto 8. Explica también por qué este caso no es lo mismo que el PUE: el PUE mide la eficiencia energética del centro de datos en su conjunto (instalación + refrigeración), no la eficiencia del código en sí.
-
-<div class="actividad-titulo"><strong>Actividad 6 — PUE y emisiones de dos centros de datos.</strong></div>
-Una empresa tiene su carga informática en una sala de servidores propia (CPD A) y estudia moverla a un centro de datos moderno (CPD B). La carga IT es la misma en los dos casos:
-
-| | Energía total anual | Energía del equipamiento IT |
-|---|---|---|
-| CPD A — sala propia con refrigeración antigua | 315.360 kWh | 175.200 kWh |
-| CPD B — centro de datos moderno | 210.240 kWh | 175.200 kWh |
-
-De forma individual, con la fórmula del PUE del punto 9:
-
-1. Calcula el PUE de cada centro e interprétalo: ¿cuánta energía se va en refrigeración, iluminación y pérdidas eléctricas en cada uno?
-2. Busca el factor de emisión del mix eléctrico peninsular del último año disponible (Red Eléctrica, *REData*, o la calculadora de huella de carbono del MITECO), indicando fuente y año, y calcula las emisiones anuales de CO₂ de cada centro.
-3. En el CPD A se plantean dos mejoras: (a) virtualizar y consolidar servidores, reduciendo la energía IT un 30% sin tocar la refrigeración; (b) reorganizar la sala en pasillos fríos y calientes y renovar la climatización, bajando el PUE a 1,4 sin tocar los servidores. Calcula el ahorro anual en kWh de cada opción (supón que en la opción (a) el PUE se mantiene en 1,8) y de aplicar las dos a la vez. ¿Cuál priorizarías?
-4. En la práctica, tras consolidar servidores el PUE de una sala suele *empeorar* aunque se consuma menos energía. Explica por qué, y qué limitación tiene entonces el PUE como único indicador.
-5. Redacta un KPI para este CPD siguiendo el punto 8 (qué se mide, meta y plazo).
-6. La consolidación deja varios servidores sin uso. Indica qué normativa regula su retirada (punto 9) y un riesgo de gobernanza que hay que controlar antes de entregarlos a un gestor autorizado.
-
-<div class="actividad-titulo"><strong>Actividad 7 — Panel de indicadores (cierre de unidad).</strong></div>
-En grupo, diseñad un panel de indicadores (en una tabla o spreadsheet) que recoja los datos que habéis generado en las actividades 5 y 6 y, si ya lo habéis visto en ASO, los de vuestras tareas programadas con `cron`. Para cada indicador indicad su dimensión ASG y, cuando encaje, su categoría del punto 8 (ambiental, social o institucional). Por ejemplo:
-
-- Consumo energético de un proceso o PUE de la sala → Ambiental (categoría ambiental).
-- Horas de formación del equipo técnico → Social (categoría social).
-- Porcentaje de cuentas de usuario con permisos revisados en el último trimestre → Gobernanza. Fijaos en que no encaja en la categoría *institucional* del punto 8, que recoge indicadores económico-financieros: indicad estos casos en el panel.
+Presentad el resultado al resto de la clase en una exposición breve (5-7 minutos), apoyada en una presentación o una infografía.
