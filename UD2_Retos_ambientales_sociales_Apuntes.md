@@ -141,11 +141,5 @@ La **CSDDD** (Corporate Sustainability Due Diligence Directive, Directiva (UE) 2
 
 ## Actividades
 
-<div class="actividad-titulo"><strong>Actividad 1 — El origen de un smartphone o un servidor.</strong></div>
-En grupo, elegid un dispositivo (smartphone, portátil o servidor) y trazad, con la información disponible públicamente, el origen de al menos tres de sus materiales críticos (litio, cobalto, tantalio, tierras raras...). Identificad qué normativa (Reglamento UE 2017/821, CSDDD) sería aplicable a la empresa fabricante.
-
-<div class="actividad-titulo"><strong>Actividad 2 — ¿Dónde ubicar un centro de datos?</strong></div>
-En grupo, debatid la ubicación de un nuevo centro de datos considerando riesgo físico (inundación, ola de calor, disponibilidad de agua para refrigeración) y riesgo de transición (normativa de eficiencia energética, coste de energía renovable disponible en la zona). Justificad vuestra elección de ubicación con al menos dos criterios de cada tipo de riesgo.
-
-<div class="actividad-titulo"><strong>Actividad 3 — Propuesta de acciones (cierre de unidad).</strong></div>
+<div class="actividad-titulo"><strong>Actividad 1 — Propuesta de acciones (cierre de unidad).</strong></div>
 De forma individual, elige uno de los retos trabajados en la unidad (ambiental o social) y propone tres acciones concretas para minimizarlo desde el rol de un profesional de administración de sistemas, indicando si cada acción es de mitigación o de adaptación, y con qué marco (RSC, ASG, CSDDD...) se relaciona.
