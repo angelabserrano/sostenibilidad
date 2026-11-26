@@ -106,7 +106,7 @@ El marco de referencia más usado para clasificar el riesgo climático empresari
 - **Mitigación** — acciones que reducen la causa del problema (ej. reducir emisiones de CO₂).
 - **Adaptación** — acciones que reducen la vulnerabilidad ante un impacto que ya es inevitable o muy probable (ej. diseñar un centro de datos para resistir eventos climáticos extremos).
 
-![Mitigación y adaptación: dos estrategias complementarias](assets/img/ud2_02_mitigacion_adaptacion.png)
+![Mitigación y adaptación: dos estrategias complementarias](assets/img/ud2_02_mitigacion_adaptacion.png){ style="width: 65%; display: block; margin: 0 auto;" }
 
 Ambas son necesarias y complementarias: no toda la mitigación posible evitará ya cierto grado de cambio climático, así que la adaptación es también parte de una estrategia de sostenibilidad seria.
 
