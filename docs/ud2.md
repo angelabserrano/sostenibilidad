@@ -80,7 +80,7 @@ El marco de referencia más usado para clasificar el riesgo climático empresari
 - **Riesgo físico** — daño directo por eventos climáticos: inundaciones, olas de calor, incendios, subida del nivel del mar. Puede ser agudo (un evento extremo puntual) o crónico (cambio gradual de patrones climáticos).
 - **Riesgo de transición** — riesgo derivado del propio proceso de cambio hacia una economía baja en carbono: cambios normativos, cambios de mercado, riesgo reputacional, obsolescencia tecnológica.
 
-![Riesgo físico vs. riesgo de transición según el marco TCFD](assets/img/ud2_01_tcfd.png)
+![Riesgo físico vs. riesgo de transición según el marco TCFD](assets/img/ud2_01_tcfd.png){ style="width: 65%; display: block; margin: 0 auto;" }
 
 ### 3.2 Ejemplos por sector
 
